@@ -1,0 +1,46 @@
+experiment_name: r5_temporal_cv_2021_validation
+data_path: data/processed/lake_erie_stonelab_osugi_v1/model_input/stonelab_osugi_7d_39features.csv
+output_dir: outputs/r5_temporal_cv_2021_validation
+target_column: MC_ge_1ug_L
+random_state: 42
+
+data_scope:
+  start_year: 2015
+  end_year: 2021
+
+development_years: [2015, 2016, 2017, 2018, 2019, 2020]
+cv_validation_years: [2017, 2018, 2019, 2020]
+validation_year: 2021
+threshold_decimals: 3
+search_iterations: 256
+minimum_acceptable_year_roc_auc: 0.50
+
+model_fixed:
+  objective: binary:logistic
+  eval_metric: logloss
+  tree_method: hist
+  n_jobs: 1
+
+original_baseline_parameters:
+  n_estimators: 500
+  learning_rate: 0.03
+  max_depth: 2
+  min_child_weight: 5
+  subsample: 0.8
+  colsample_bytree: 0.8
+  reg_lambda: 10.0
+  reg_alpha: 0.5
+  gamma: 0.0
+  scale_pos_weight: 1.0
+
+search_space:
+  n_estimators: [20, 40, 75, 125, 200, 300, 500]
+  learning_rate: [0.02, 0.03, 0.05, 0.08, 0.10, 0.15, 0.20]
+  max_depth: [1, 2, 3]
+  min_child_weight: [1, 2, 3, 5]
+  subsample: [0.70, 0.85, 1.00]
+  colsample_bytree: [0.60, 0.80, 1.00]
+  reg_lambda: [0.5, 1.0, 2.0, 5.0, 10.0]
+  reg_alpha: [0.0, 0.1, 0.3, 0.5]
+  gamma: [0.0, 0.1, 0.3]
+  scale_pos_weight: [1.0, 1.5, 2.0, 3.0]

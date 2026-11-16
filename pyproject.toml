@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools==80.9.0", "wheel==0.45.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mc-risk-predictor"
+version = "1.0.0"
+description = "Target-day total microcystin risk from seven days of water-quality observations"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = "MIT"
+authors = [{name = "SCAU-China 2026 iGEM team"}]
+dependencies = [
+  "numpy==1.26.4", "pandas==3.0.3", "xgboost-cpu==3.2.0",
+  "scikit-learn==1.7.1", "PyYAML==6.0.3", "netCDF4==1.7.4", "openpyxl==3.1.5",
+]
+
+[project.scripts]
+mc-risk-predict = "mod_mc.cli:main"
+mc-risk-build = "mod_mc.cli:build_main"
+mc-risk-prepare-stonelab = "mod_mc.cli:prepare_main"
+mc-risk-reproduce = "mod_mc.cli:reproduce_main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"mod_mc.resources" = ["*.json", "*.yaml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

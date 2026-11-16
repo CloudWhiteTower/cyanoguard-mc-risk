@@ -1,0 +1,7 @@
+target_date,WaterTemperature_7d_mean,WaterTemperature_latest,WaterTemperature_trend,DissolvedOxygen_7d_mean,DissolvedOxygen_latest,DissolvedOxygen_trend,pH_7d_mean,pH_latest,pH_trend,Turbidity_7d_mean,Turbidity_latest,Turbidity_trend,Conductivity_7d_mean,Conductivity_latest,Conductivity_trend,ChlorophyllA_7d_mean,ChlorophyllA_latest,ChlorophyllA_trend,TP_7d_mean,TP_latest,TP_trend,TN_7d_mean,TN_latest,TN_trend,NO3NO2_7d_mean,NO3NO2_latest,NO3NO2_trend,Secchi_7d_mean,Secchi_latest,Secchi_trend,Phycocyanin_7d_mean,Phycocyanin_latest,Phycocyanin_trend,DRP_7d_mean,DRP_latest,DRP_trend,NH4_7d_mean,NH4_latest,NH4_trend
+2030-07-01,20.0,20.0,0.0,8.0,8.0,0.0,8.0,8.0,0.0,1.0,1.0,0.0,300.0,300.0,0.0,0.1,0.1,0.0,0.02,0.02,0.0,1.0,1.0,0.0,0.2,0.2,0.0,2.0,2.0,0.0,0.1,0.1,0.0,0.01,0.01,0.0,0.02,0.02,0.0
+2030-07-02,20.0,20.0,0.0,8.0,8.0,0.0,8.0,8.0,0.0,1.0,1.0,0.0,300.0,300.0,0.0,1.0,1.0,0.0,0.02,0.02,0.0,1.0,1.0,0.0,0.2,0.2,0.0,2.0,2.0,0.0,1.0,1.0,0.0,0.01,0.01,0.0,0.02,0.02,0.0
+2030-07-03,20.0,20.0,0.0,8.0,8.0,0.0,8.0,8.0,0.0,1.0,1.0,0.0,300.0,300.0,0.0,4.0,4.0,0.0,0.02,0.02,0.0,1.0,1.0,0.0,0.2,0.2,0.0,2.0,2.0,0.0,4.0,4.0,0.0,0.01,0.01,0.0,0.02,0.02,0.0
+2030-07-04,20.0,20.0,0.0,8.0,8.0,0.0,8.0,8.0,0.0,1.0,1.0,0.0,300.0,300.0,0.0,15.0,15.0,0.0,0.02,0.02,0.0,1.0,1.0,0.0,0.2,0.2,0.0,2.0,2.0,0.0,15.0,15.0,0.0,0.01,0.01,0.0,0.02,0.02,0.0
+2030-07-05,20.0,20.0,0.0,8.0,8.0,0.0,8.0,8.0,0.0,1.0,1.0,0.0,300.0,300.0,0.0,40.0,40.0,0.0,0.02,0.02,0.0,1.0,1.0,0.0,0.2,0.2,0.0,2.0,2.0,0.0,40.0,40.0,0.0,0.01,0.01,0.0,0.02,0.02,0.0
+2030-07-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

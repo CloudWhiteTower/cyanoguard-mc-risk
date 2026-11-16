@@ -1,0 +1,8 @@
+include LICENSE README.md NOTICE.md requirements.lock requirements-dev.lock .gitlab-ci.yml
+recursive-include docs *.md *.json
+recursive-include examples *.csv *.md
+recursive-include results *.json *.csv
+recursive-include configs *.yaml
+recursive-include scripts *.py
+recursive-include tests *.py
+recursive-include src/mod_mc/resources *.json *.yaml

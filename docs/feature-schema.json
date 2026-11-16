@@ -1,0 +1,317 @@
+{
+  "window": "[t-7,t-1]",
+  "features": [
+    {
+      "position": 1,
+      "name": "WaterTemperature_7d_mean",
+      "variable": "WaterTemperature",
+      "statistic": "7d_mean",
+      "unit": "degree Celsius",
+      "missing_allowed": true
+    },
+    {
+      "position": 2,
+      "name": "WaterTemperature_latest",
+      "variable": "WaterTemperature",
+      "statistic": "latest",
+      "unit": "degree Celsius",
+      "missing_allowed": true
+    },
+    {
+      "position": 3,
+      "name": "WaterTemperature_trend",
+      "variable": "WaterTemperature",
+      "statistic": "trend",
+      "unit": "degree Celsius per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 4,
+      "name": "DissolvedOxygen_7d_mean",
+      "variable": "DissolvedOxygen",
+      "statistic": "7d_mean",
+      "unit": "mg/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 5,
+      "name": "DissolvedOxygen_latest",
+      "variable": "DissolvedOxygen",
+      "statistic": "latest",
+      "unit": "mg/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 6,
+      "name": "DissolvedOxygen_trend",
+      "variable": "DissolvedOxygen",
+      "statistic": "trend",
+      "unit": "mg/L per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 7,
+      "name": "pH_7d_mean",
+      "variable": "pH",
+      "statistic": "7d_mean",
+      "unit": "dimensionless",
+      "missing_allowed": true
+    },
+    {
+      "position": 8,
+      "name": "pH_latest",
+      "variable": "pH",
+      "statistic": "latest",
+      "unit": "dimensionless",
+      "missing_allowed": true
+    },
+    {
+      "position": 9,
+      "name": "pH_trend",
+      "variable": "pH",
+      "statistic": "trend",
+      "unit": "dimensionless per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 10,
+      "name": "Turbidity_7d_mean",
+      "variable": "Turbidity",
+      "statistic": "7d_mean",
+      "unit": "NTU",
+      "missing_allowed": true
+    },
+    {
+      "position": 11,
+      "name": "Turbidity_latest",
+      "variable": "Turbidity",
+      "statistic": "latest",
+      "unit": "NTU",
+      "missing_allowed": true
+    },
+    {
+      "position": 12,
+      "name": "Turbidity_trend",
+      "variable": "Turbidity",
+      "statistic": "trend",
+      "unit": "NTU per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 13,
+      "name": "Conductivity_7d_mean",
+      "variable": "Conductivity",
+      "statistic": "7d_mean",
+      "unit": "µS/cm",
+      "missing_allowed": true
+    },
+    {
+      "position": 14,
+      "name": "Conductivity_latest",
+      "variable": "Conductivity",
+      "statistic": "latest",
+      "unit": "µS/cm",
+      "missing_allowed": true
+    },
+    {
+      "position": 15,
+      "name": "Conductivity_trend",
+      "variable": "Conductivity",
+      "statistic": "trend",
+      "unit": "µS/cm per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 16,
+      "name": "ChlorophyllA_7d_mean",
+      "variable": "ChlorophyllA",
+      "statistic": "7d_mean",
+      "unit": "µg/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 17,
+      "name": "ChlorophyllA_latest",
+      "variable": "ChlorophyllA",
+      "statistic": "latest",
+      "unit": "µg/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 18,
+      "name": "ChlorophyllA_trend",
+      "variable": "ChlorophyllA",
+      "statistic": "trend",
+      "unit": "µg/L per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 19,
+      "name": "TP_7d_mean",
+      "variable": "TP",
+      "statistic": "7d_mean",
+      "unit": "mg P/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 20,
+      "name": "TP_latest",
+      "variable": "TP",
+      "statistic": "latest",
+      "unit": "mg P/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 21,
+      "name": "TP_trend",
+      "variable": "TP",
+      "statistic": "trend",
+      "unit": "mg P/L per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 22,
+      "name": "TN_7d_mean",
+      "variable": "TN",
+      "statistic": "7d_mean",
+      "unit": "mg N/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 23,
+      "name": "TN_latest",
+      "variable": "TN",
+      "statistic": "latest",
+      "unit": "mg N/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 24,
+      "name": "TN_trend",
+      "variable": "TN",
+      "statistic": "trend",
+      "unit": "mg N/L per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 25,
+      "name": "NO3NO2_7d_mean",
+      "variable": "NO3NO2",
+      "statistic": "7d_mean",
+      "unit": "mg N/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 26,
+      "name": "NO3NO2_latest",
+      "variable": "NO3NO2",
+      "statistic": "latest",
+      "unit": "mg N/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 27,
+      "name": "NO3NO2_trend",
+      "variable": "NO3NO2",
+      "statistic": "trend",
+      "unit": "mg N/L per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 28,
+      "name": "Secchi_7d_mean",
+      "variable": "Secchi",
+      "statistic": "7d_mean",
+      "unit": "m",
+      "missing_allowed": true
+    },
+    {
+      "position": 29,
+      "name": "Secchi_latest",
+      "variable": "Secchi",
+      "statistic": "latest",
+      "unit": "m",
+      "missing_allowed": true
+    },
+    {
+      "position": 30,
+      "name": "Secchi_trend",
+      "variable": "Secchi",
+      "statistic": "trend",
+      "unit": "m per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 31,
+      "name": "Phycocyanin_7d_mean",
+      "variable": "Phycocyanin",
+      "statistic": "7d_mean",
+      "unit": "RFU",
+      "missing_allowed": true
+    },
+    {
+      "position": 32,
+      "name": "Phycocyanin_latest",
+      "variable": "Phycocyanin",
+      "statistic": "latest",
+      "unit": "RFU",
+      "missing_allowed": true
+    },
+    {
+      "position": 33,
+      "name": "Phycocyanin_trend",
+      "variable": "Phycocyanin",
+      "statistic": "trend",
+      "unit": "RFU per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 34,
+      "name": "DRP_7d_mean",
+      "variable": "DRP",
+      "statistic": "7d_mean",
+      "unit": "mg P/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 35,
+      "name": "DRP_latest",
+      "variable": "DRP",
+      "statistic": "latest",
+      "unit": "mg P/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 36,
+      "name": "DRP_trend",
+      "variable": "DRP",
+      "statistic": "trend",
+      "unit": "mg P/L per day",
+      "missing_allowed": true
+    },
+    {
+      "position": 37,
+      "name": "NH4_7d_mean",
+      "variable": "NH4",
+      "statistic": "7d_mean",
+      "unit": "mg N/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 38,
+      "name": "NH4_latest",
+      "variable": "NH4",
+      "statistic": "latest",
+      "unit": "mg N/L",
+      "missing_allowed": true
+    },
+    {
+      "position": 39,
+      "name": "NH4_trend",
+      "variable": "NH4",
+      "statistic": "trend",
+      "unit": "mg N/L per day",
+      "missing_allowed": true
+    }
+  ]
+}

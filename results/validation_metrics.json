@@ -1,0 +1,103 @@
+{
+  "task": "past 7 days -> target-day Total Microcystins >= 1 ug/L",
+  "data_scope": {
+    "start_year": 2015,
+    "end_year": 2021,
+    "rows": 276,
+    "positive_rows": 60
+  },
+  "development": {
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "rows": 241,
+    "positive_rows": 53
+  },
+  "held_out_validation": {
+    "year": 2021,
+    "rows": 35,
+    "positive_rows": 7
+  },
+  "cross_validation": {
+    "method": "four-fold expanding-window validation grouped by year",
+    "validation_years": [
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate_count": 257,
+    "selection_rule": "require every yearly ROC-AUC >= 0.50, then maximize 0.50*mean_ROC_AUC + 0.25*mean_PR_AUC + 0.15*(1-mean_Brier) + 0.10*minimum_year_ROC_AUC",
+    "minimum_acceptable_year_roc_auc": 0.5,
+    "best_candidate": 51,
+    "best_parameters": {
+      "objective": "binary:logistic",
+      "eval_metric": "logloss",
+      "tree_method": "hist",
+      "n_jobs": 1,
+      "subsample": 0.7,
+      "scale_pos_weight": 1.5,
+      "reg_lambda": 10.0,
+      "reg_alpha": 0.0,
+      "n_estimators": 20,
+      "min_child_weight": 3,
+      "max_depth": 1,
+      "learning_rate": 0.1,
+      "gamma": 0.1,
+      "colsample_bytree": 0.8
+    },
+    "best_summary": {
+      "selection_score": 0.6312269818314878,
+      "mean_roc_auc": 0.7006930443548387,
+      "minimum_year_roc_auc": 0.5,
+      "std_roc_auc": 0.1609201995993499,
+      "mean_pr_auc": 0.4244755116959064,
+      "mean_brier_score": 0.16825612179938795,
+      "mean_log_loss": 0.5115447666442052
+    }
+  },
+  "threshold_selection": "2021 held-out validation; 0.001 grid; maximize MCC, then balanced accuracy, specificity, and sensitivity",
+  "decision_threshold": 0.255,
+  "threshold_decimals": 3,
+  "operational_thresholds": {
+    "normal_to_low": 0.152,
+    "low_to_medium": 0.184,
+    "medium_to_warning": 0.255,
+    "method": "75th and 95th percentiles of non-warning 2021 validation scores; all boundaries rounded to three decimals"
+  },
+  "validation_2021": {
+    "rows": 35,
+    "positive_rows": 7,
+    "negative_rows": 28,
+    "accuracy": 0.9142857142857143,
+    "balanced_accuracy": 0.9464285714285714,
+    "precision": 0.7,
+    "recall_sensitivity": 1.0,
+    "specificity": 0.8928571428571429,
+    "false_positive_rate": 0.10714285714285714,
+    "f1": 0.8235294117647058,
+    "pr_auc": 0.6773809523809524,
+    "roc_auc": 0.9362244897959183,
+    "brier_score": 0.11298006922788612,
+    "log_loss": 0.3705823432332018,
+    "mean_risk_score": 0.21561911702156067,
+    "false_alarms": 3,
+    "confusion_matrix": {
+      "tn": 25,
+      "fp": 3,
+      "fn": 0,
+      "tp": 7
+    }
+  },
+  "validation_2021_risk_tier_counts": {
+    "normal": 23,
+    "warning": 10,
+    "medium": 2
+  },
+  "model_release": "1.0.0"
+}

@@ -1,0 +1,1900 @@
+{
+  "files": [
+    {
+      "path": "201505/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201505/osugi_air_pressure.nc",
+      "bytes": 8996,
+      "sha256": "a7bb55c6bbfb2bcf58eb7968c1f162b38ef18086f20045e7322c2e42645c1c00"
+    },
+    {
+      "path": "201505/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201505/osugi_air_temperature.nc",
+      "bytes": 9024,
+      "sha256": "28e565d2d1366dd7329b336f4d16fe6dae98f85eff481bb77b5020086a07ec9c"
+    },
+    {
+      "path": "201505/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201505/osugi_ph.nc",
+      "bytes": 9016,
+      "sha256": "53a63a49bdd4a71408e0bef3431672e43de092aaad0601f115d31197cf0d70f4"
+    },
+    {
+      "path": "201505/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201505/osugi_relative_humidity.nc",
+      "bytes": 9020,
+      "sha256": "725a6a9595b39059004cc6463a0f3ab56d09d2b99418f3203c280ce9c8c0db7a"
+    },
+    {
+      "path": "201505/osugi_sea_water_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201505/osugi_sea_water_temperature.nc",
+      "bytes": 11128,
+      "sha256": "161e3daa663a282b1169c490d26d41b2f6deff6841df126f9146f4fa4b9e1cf9"
+    },
+    {
+      "path": "201505/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201505/osugi_water_conductivity.nc",
+      "bytes": 9160,
+      "sha256": "0027a7630cc49381e6f633c3ae72b0940ba23f399625211aec9701957ec362d0"
+    },
+    {
+      "path": "201505/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201505/osugi_wind_from_direction.nc",
+      "bytes": 9000,
+      "sha256": "23aa99a19e5712b431a1e52d83286f5f86627780f2ab6a372fd36cdbca4db525"
+    },
+    {
+      "path": "201505/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201505/osugi_wind_speed.nc",
+      "bytes": 8952,
+      "sha256": "0c9be85ec1fe1eb4ab424d0b3ed573c16ae72d8d2cdb5a76a4bb5f2b033362a4"
+    },
+    {
+      "path": "201505/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201505/osugi_ysi_chlorophyll.nc",
+      "bytes": 9136,
+      "sha256": "18826c121c67e40700bc67af60e760a0ddb4e540731cf8e4193f550a73d56149"
+    },
+    {
+      "path": "201505/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201505/osugi_ysi_turbidity.nc",
+      "bytes": 9096,
+      "sha256": "d72f681fcfcb211514488dba3588f93bdebbf403125272162444b041576f7012"
+    },
+    {
+      "path": "201506/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201506/osugi_air_pressure.nc",
+      "bytes": 26388,
+      "sha256": "cb3995fe05bf4be371502d263c227e0815d10c7a20383391abd33dd6a55a195f"
+    },
+    {
+      "path": "201506/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201506/osugi_air_temperature.nc",
+      "bytes": 26416,
+      "sha256": "ef472ed313fd31161f5211813ebfc22c73a211a153b915da8c6cc2978aac6e8c"
+    },
+    {
+      "path": "201506/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201506/osugi_ph.nc",
+      "bytes": 26328,
+      "sha256": "8d21a9bd4ed4372b17c6428fbc49bcca92d23b3a20c5d4bd00d4252bce52fa7e"
+    },
+    {
+      "path": "201506/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201506/osugi_relative_humidity.nc",
+      "bytes": 26412,
+      "sha256": "1c75217535b1c5112eda5329334a958877adb7ba7e4613afc792970c64aeee48"
+    },
+    {
+      "path": "201506/osugi_sea_water_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201506/osugi_sea_water_temperature.nc",
+      "bytes": 11776,
+      "sha256": "fef683e7007ce43a578be3ca01199137d76b67894180b30f03d8f09c8118c75f"
+    },
+    {
+      "path": "201506/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201506/osugi_water_conductivity.nc",
+      "bytes": 26472,
+      "sha256": "b991519c1bafdeff963e6184c165013d02b8f708bf7a21c1f520a2774d93f9fc"
+    },
+    {
+      "path": "201506/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201506/osugi_wind_from_direction.nc",
+      "bytes": 26392,
+      "sha256": "29072a85eaf6ee366d0376348f4a02c544a191e0cd3030ed776598b27d15290e"
+    },
+    {
+      "path": "201506/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201506/osugi_wind_speed.nc",
+      "bytes": 26344,
+      "sha256": "2c5df58742e0c5d12f7605cb14a8bd335551fb48705a9af48716d4d8433ccefd"
+    },
+    {
+      "path": "201506/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201506/osugi_ysi_chlorophyll.nc",
+      "bytes": 26448,
+      "sha256": "2edecedddae6fb8d8ef68baa96ec42bd3e389d60dfe7d3d82bffb2d924bf7ea2"
+    },
+    {
+      "path": "201506/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201506/osugi_ysi_turbidity.nc",
+      "bytes": 26408,
+      "sha256": "2874d996454a2d60bc0b0a2c29c44b7844f99d916c6cd2ab72bc3342e1d6be35"
+    },
+    {
+      "path": "201507/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201507/osugi_air_pressure.nc",
+      "bytes": 36404,
+      "sha256": "90b808cf6d39b5058781b5326b575fc62608b751b1ab3daf66bef395a9a4a003"
+    },
+    {
+      "path": "201507/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201507/osugi_air_temperature.nc",
+      "bytes": 36432,
+      "sha256": "98f1bac7b2e7ad072d6b31490bc0f5b500775764e9c06b0fe7e3cdf6baaa0def"
+    },
+    {
+      "path": "201507/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201507/osugi_ph.nc",
+      "bytes": 36408,
+      "sha256": "709f53e1dca5945197173beb44604267287e01d9ac2bc87c0926cb6ce3138231"
+    },
+    {
+      "path": "201507/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201507/osugi_relative_humidity.nc",
+      "bytes": 36428,
+      "sha256": "337a734ddb2c2f6897259e8072c2235f205ab24f2e4bf162279e265f590be72a"
+    },
+    {
+      "path": "201507/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201507/osugi_water_conductivity.nc",
+      "bytes": 36552,
+      "sha256": "82e1a01757692a6aca05e1362e48f852215d5829d2b9c314676b93905d469a16"
+    },
+    {
+      "path": "201507/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201507/osugi_wind_from_direction.nc",
+      "bytes": 36408,
+      "sha256": "2c727e849bad901f1c6247792a1e86dde70e2c12102b2383e17eb6acf5c4a8c8"
+    },
+    {
+      "path": "201507/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201507/osugi_wind_speed.nc",
+      "bytes": 36360,
+      "sha256": "123eb207bcefb663dbc7898994fc444d81cdb63b6ba447e7439d0866043d733a"
+    },
+    {
+      "path": "201507/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201507/osugi_ysi_blue_green_algae.nc",
+      "bytes": 28316,
+      "sha256": "cb6db4c0a357ecaa5bf8ff25dc8b80aa518f112f52afe9cde6aeda98118e717f"
+    },
+    {
+      "path": "201507/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201507/osugi_ysi_chlorophyll.nc",
+      "bytes": 36528,
+      "sha256": "552fdc592df76f124aee91ec7e63cc22e9c9d7bd3f1a0a9ad770725f4de31035"
+    },
+    {
+      "path": "201507/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201507/osugi_ysi_turbidity.nc",
+      "bytes": 36488,
+      "sha256": "69155ef133d80126c0a915bde10e50aff53cbac50b30b7f287dd0a57b772ef50"
+    },
+    {
+      "path": "201508/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201508/osugi_air_pressure.nc",
+      "bytes": 15044,
+      "sha256": "23a36de252344eaeb9e243bbc484ed6ad55e3926d9291491ba1b94154a33da2f"
+    },
+    {
+      "path": "201508/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201508/osugi_air_temperature.nc",
+      "bytes": 15072,
+      "sha256": "33181a27e7bb84d57b1c857d700bce3d4710e51759dfb4f65da6be663ed62556"
+    },
+    {
+      "path": "201508/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201508/osugi_ph.nc",
+      "bytes": 15048,
+      "sha256": "0fd19687e0a5fa039617af65bd11db89c733f16ee4c086661d096c16a305337a"
+    },
+    {
+      "path": "201508/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201508/osugi_relative_humidity.nc",
+      "bytes": 15068,
+      "sha256": "a051bf1324a3387401601a0eadd1973b7a9b81f134f38ad8baa6717b3c7fc8ef"
+    },
+    {
+      "path": "201508/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201508/osugi_water_conductivity.nc",
+      "bytes": 15192,
+      "sha256": "65a0e44fd35e502925e139bf1bd44c915428e47773d2708e8fda828ce172f952"
+    },
+    {
+      "path": "201508/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201508/osugi_wind_from_direction.nc",
+      "bytes": 15048,
+      "sha256": "d3eec007e8a18618e5341560aaba24f8d8e54a63cc70623cc883db2a215a7ca4"
+    },
+    {
+      "path": "201508/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201508/osugi_wind_speed.nc",
+      "bytes": 15000,
+      "sha256": "3824b376fa6a4fce4452ea7116e067bf8e7bebae934ac068eccb17ed7618a36e"
+    },
+    {
+      "path": "201508/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201508/osugi_ysi_blue_green_algae.nc",
+      "bytes": 15116,
+      "sha256": "cd15338449cf03ecccd3f6a96cce52e135df4435268f4ad985121ffae7256bf4"
+    },
+    {
+      "path": "201508/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201508/osugi_ysi_chlorophyll.nc",
+      "bytes": 15168,
+      "sha256": "76df15c9d13cb606d953e4e00f58b991070c8b6c8253ceae2f7f9c37c55c39d5"
+    },
+    {
+      "path": "201508/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201508/osugi_ysi_turbidity.nc",
+      "bytes": 15128,
+      "sha256": "f461bb2b686c15190090eed6cb0627b5fa33cae8bbfb2f29a8beecee4a7baddd"
+    },
+    {
+      "path": "201509/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201509/osugi_air_pressure.nc",
+      "bytes": 29140,
+      "sha256": "debfbadf6ee3824f0f9d4cbacbda527c5379fbe4f247f31972053d15e1ff0473"
+    },
+    {
+      "path": "201509/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201509/osugi_air_temperature.nc",
+      "bytes": 29168,
+      "sha256": "d2665d53aa6779dbf12ba3a1aa14803eb22925d188242607b163df087931d230"
+    },
+    {
+      "path": "201509/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201509/osugi_ph.nc",
+      "bytes": 29144,
+      "sha256": "541085b9dad9b66f17e9e9caa806b5cb995c90a1f6e32f1b0087cd219d90fbd1"
+    },
+    {
+      "path": "201509/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201509/osugi_relative_humidity.nc",
+      "bytes": 29164,
+      "sha256": "35c47b083fd8341195210ce48eeb16a1bc5131696908079c4fc2bf1c5cb83d55"
+    },
+    {
+      "path": "201509/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201509/osugi_water_conductivity.nc",
+      "bytes": 29288,
+      "sha256": "b3a46def7f38a233dff74f4a129a40a258d5cb7230172abc096726537d808ff5"
+    },
+    {
+      "path": "201509/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201509/osugi_wind_from_direction.nc",
+      "bytes": 29144,
+      "sha256": "9afad16f5448c6a87c9e38ec5cebe83aef715380a26a995312e24385745d2a5e"
+    },
+    {
+      "path": "201509/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201509/osugi_wind_speed.nc",
+      "bytes": 29096,
+      "sha256": "ac78c158108fceeaa1ff0d5b2f40755268ba2f31da5de6da4ad7723f2126e8df"
+    },
+    {
+      "path": "201509/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201509/osugi_ysi_blue_green_algae.nc",
+      "bytes": 29212,
+      "sha256": "5c7ee29793d50029e72f8aaac5a7beb491b61e9667578d64dbc7f43e5c5b6022"
+    },
+    {
+      "path": "201509/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201509/osugi_ysi_chlorophyll.nc",
+      "bytes": 29264,
+      "sha256": "c5798912dfb504a311d0931abfcc625db7dcbd192ffbf343f97bc06b3729dd41"
+    },
+    {
+      "path": "201509/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201509/osugi_ysi_turbidity.nc",
+      "bytes": 29224,
+      "sha256": "383dbe457f6433b120ce88a72419ad5f4e2d899fedc0251e5d4ea4a2d8440e8b"
+    },
+    {
+      "path": "201510/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201510/osugi_air_pressure.nc",
+      "bytes": 30460,
+      "sha256": "81de6c5889447f004a3102e86db1a4e01b62b5c04af2b013cdf7c3b4e4627e67"
+    },
+    {
+      "path": "201510/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201510/osugi_air_temperature.nc",
+      "bytes": 30488,
+      "sha256": "c4b757a24a33a69030021c530196149ce4f96b92f7a0e0bb1ddfb57b4d6ed8b2"
+    },
+    {
+      "path": "201510/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201510/osugi_ph.nc",
+      "bytes": 30480,
+      "sha256": "bf3bddbf1e94b89a0163681a6d88fcf7068abe0ed026401f924e206a1558459d"
+    },
+    {
+      "path": "201510/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201510/osugi_relative_humidity.nc",
+      "bytes": 30484,
+      "sha256": "c386a2200ef4a25ed8c67ef5f37f5dacaa60d6e867cf1f10050dbec2e895c407"
+    },
+    {
+      "path": "201510/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201510/osugi_water_conductivity.nc",
+      "bytes": 30624,
+      "sha256": "8b2feab362e6c7d7db524fe5cf8de8f2c91ad2708ac21451d2f1c1b26769ed05"
+    },
+    {
+      "path": "201510/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201510/osugi_wind_from_direction.nc",
+      "bytes": 30464,
+      "sha256": "67299984070cb07977a089de4bc93b5bbef90f31b30b5deda72290840aa5afb8"
+    },
+    {
+      "path": "201510/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201510/osugi_wind_speed.nc",
+      "bytes": 30416,
+      "sha256": "52bb31697d07bc0e51ca248d92909eaf0292671138837cb09281e662b9c2bef7"
+    },
+    {
+      "path": "201510/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201510/osugi_ysi_blue_green_algae.nc",
+      "bytes": 30548,
+      "sha256": "f11b1cf3aeed6002f9539e34f3a18a74b8ef6a55aad4d5a15f7967eb9765ace0"
+    },
+    {
+      "path": "201510/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201510/osugi_ysi_chlorophyll.nc",
+      "bytes": 30600,
+      "sha256": "5a9871b3f6e4702b4d0ddffaa27517ff417db7e4e7ba6121a2285dbbf69d8f4f"
+    },
+    {
+      "path": "201510/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201510/osugi_ysi_turbidity.nc",
+      "bytes": 30560,
+      "sha256": "b4e895a3f42f2ed302ac0c7577f6bfef8ff82fcf72794a7bd7bf3cda63da70d9"
+    },
+    {
+      "path": "201604/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201604/osugi_air_pressure.nc",
+      "bytes": 10524,
+      "sha256": "a4d0790edf72cc5a74404f4c4ca442b12ae39ffcee30d045fb37e15c99651895"
+    },
+    {
+      "path": "201604/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201604/osugi_air_temperature.nc",
+      "bytes": 10552,
+      "sha256": "c4c113dd74b8d605338f5896a8213e1165571887416257bd6f662a407a62d41f"
+    },
+    {
+      "path": "201604/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201604/osugi_ph.nc",
+      "bytes": 10528,
+      "sha256": "aa714ae6b1102e5db5cf3d81314e7f9f85d95a004c59ffac6cb670ce409a6dbf"
+    },
+    {
+      "path": "201604/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201604/osugi_relative_humidity.nc",
+      "bytes": 10548,
+      "sha256": "1d4c9279c32f5dba9b3f25c39fb6197f6fdf479857ae2d2581674e2544a505c8"
+    },
+    {
+      "path": "201604/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201604/osugi_water_conductivity.nc",
+      "bytes": 10672,
+      "sha256": "a07fef91da1d66d2511a56b71017aea440300e278d4bc8c4954d57aedc870842"
+    },
+    {
+      "path": "201604/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201604/osugi_wind_from_direction.nc",
+      "bytes": 10528,
+      "sha256": "f72f664d4dfa2ae3ee1890edeae66818c6a95cda03410311cbcac690a66b3cd1"
+    },
+    {
+      "path": "201604/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201604/osugi_wind_speed.nc",
+      "bytes": 10480,
+      "sha256": "72c0c27c5903f63444c66ea85a63a06dcffe606fca3153bf9311abce0c2ea61a"
+    },
+    {
+      "path": "201604/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201604/osugi_ysi_blue_green_algae.nc",
+      "bytes": 10596,
+      "sha256": "5f73e81529787c66de4534ae38655091f55310a3cd5452f5dd4dd4d3a6d6db5f"
+    },
+    {
+      "path": "201604/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201604/osugi_ysi_chlorophyll.nc",
+      "bytes": 10648,
+      "sha256": "8a9fa75c77e1f1dd59b5d1ff71e241e5366c17abea3918f1af3b1840c09fb1d5"
+    },
+    {
+      "path": "201604/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201604/osugi_ysi_turbidity.nc",
+      "bytes": 10608,
+      "sha256": "176bbb48c0dd777b0997d00694852d5a9e81f5a0767d114c9496a16234962de8"
+    },
+    {
+      "path": "201605/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201605/osugi_air_pressure.nc",
+      "bytes": 47868,
+      "sha256": "0170f43855f120601526c7bcf1418912a0e28976b5ad1e43ea7c3a2a3e103089"
+    },
+    {
+      "path": "201605/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201605/osugi_air_temperature.nc",
+      "bytes": 47896,
+      "sha256": "569470e122b3e147af79d00349c932d505ce444402548f436ed6f127ac027496"
+    },
+    {
+      "path": "201605/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201605/osugi_ph.nc",
+      "bytes": 47888,
+      "sha256": "724474f10030447c0b03b3c5ed98875dea6f09d0a3bfe6ce6cbcec8a747794f0"
+    },
+    {
+      "path": "201605/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201605/osugi_relative_humidity.nc",
+      "bytes": 47892,
+      "sha256": "bf7e44f471e0a0a999cd1ef6ac88568871f8662966e023283d4f37e705326379"
+    },
+    {
+      "path": "201605/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201605/osugi_water_conductivity.nc",
+      "bytes": 48032,
+      "sha256": "4d9b0fc818a30406db0baf9199422f38d1a351e25d72c63fb09816d23bbb99e8"
+    },
+    {
+      "path": "201605/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201605/osugi_wind_from_direction.nc",
+      "bytes": 47872,
+      "sha256": "43e936cb6edc8c9e44e3f15bdefaf568ec4cc55015d588337c5b53bd6f8a0a87"
+    },
+    {
+      "path": "201605/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201605/osugi_wind_speed.nc",
+      "bytes": 47824,
+      "sha256": "39b2052c60be93dbfbd8133151e7c1d4ba29203df455d5a8dd4919be585c7392"
+    },
+    {
+      "path": "201605/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201605/osugi_ysi_blue_green_algae.nc",
+      "bytes": 47956,
+      "sha256": "9404b68aa21c8d07fb668005400de66b3b72597a66b0b0b5e4c9ffb55171780b"
+    },
+    {
+      "path": "201605/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201605/osugi_ysi_chlorophyll.nc",
+      "bytes": 48008,
+      "sha256": "6e1cc173c4d1ac5e06664d2527d2614352cbeb8a25087fcb0f98be3598a316dc"
+    },
+    {
+      "path": "201605/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201605/osugi_ysi_turbidity.nc",
+      "bytes": 47968,
+      "sha256": "4129e25e9cbe3605d219c598499d22f4bf6a618a690cfa42f525ec1ee772471d"
+    },
+    {
+      "path": "201606/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201606/osugi_air_pressure.nc",
+      "bytes": 50492,
+      "sha256": "4539d44d074b34fe2709a2cca3ec876da92d7514fcb7c0ef8d55c2bae3cc0ad9"
+    },
+    {
+      "path": "201606/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201606/osugi_air_temperature.nc",
+      "bytes": 50520,
+      "sha256": "50402c7b26a111bf6d96457557d13b00cc43cf2f7c4f60889bfa5fb1d465186d"
+    },
+    {
+      "path": "201606/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201606/osugi_ph.nc",
+      "bytes": 48896,
+      "sha256": "574ce4ba2b73ef9a3dafc66dc57e30d6ac17e5d7a83a525ca12eb5da2088301b"
+    },
+    {
+      "path": "201606/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201606/osugi_relative_humidity.nc",
+      "bytes": 50516,
+      "sha256": "23fb5f65be0d21a3dfbf424bd0d8c888364a34e6bd79361f2eb8d24f7439cc8e"
+    },
+    {
+      "path": "201606/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201606/osugi_water_conductivity.nc",
+      "bytes": 49040,
+      "sha256": "9d1b2272afceed52bae9e6ab8fca7042f8e308908bc8573550a447f511365eca"
+    },
+    {
+      "path": "201606/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201606/osugi_wind_from_direction.nc",
+      "bytes": 50496,
+      "sha256": "38bba4b43867dcff3887b98e0e5790510a855f21fcfe7324025d6302a48072bf"
+    },
+    {
+      "path": "201606/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201606/osugi_wind_speed.nc",
+      "bytes": 50448,
+      "sha256": "e4a463d373e154053f63baccb30cbfb54a53ad2155c1b6cf656e15e0556b76e3"
+    },
+    {
+      "path": "201606/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201606/osugi_ysi_blue_green_algae.nc",
+      "bytes": 48964,
+      "sha256": "ed644bc3a905ba769529355b9af0b9f08be705687bc2f889f784eccca6e455d3"
+    },
+    {
+      "path": "201606/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201606/osugi_ysi_chlorophyll.nc",
+      "bytes": 49016,
+      "sha256": "7ba9717613878247aee3b108651c154822c85cff06fd2c22bec8f8978e865a59"
+    },
+    {
+      "path": "201606/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201606/osugi_ysi_turbidity.nc",
+      "bytes": 48976,
+      "sha256": "9eebdbf52c312a31ff40464bb2420d6fdc664ad999514d49d4e9187ad28379c2"
+    },
+    {
+      "path": "201607/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201607/osugi_air_pressure.nc",
+      "bytes": 50716,
+      "sha256": "a8c96530eb5ef2f5a2d199cafdcea9524f9afda5c1ca88ad6cb87bb28083df3e"
+    },
+    {
+      "path": "201607/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201607/osugi_air_temperature.nc",
+      "bytes": 50744,
+      "sha256": "b6685a7275e7c82cd5ff0b6d74f683f7b78efd7c1a769f1cf35240b523e71e9b"
+    },
+    {
+      "path": "201607/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201607/osugi_ph.nc",
+      "bytes": 32352,
+      "sha256": "9e0e546fa2cb1145e37b477dd58942ae6db95939cf07eca61470a79e0f6b9394"
+    },
+    {
+      "path": "201607/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201607/osugi_relative_humidity.nc",
+      "bytes": 50740,
+      "sha256": "e4467932ee1ba9bd0c90ec8d030f935de7f1ba1274ceb48f970df76ba7250da6"
+    },
+    {
+      "path": "201607/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201607/osugi_water_conductivity.nc",
+      "bytes": 32496,
+      "sha256": "e5d942b7d57309e98f855e9fa47f753f3f65ce9c9d7719d408f42325eb725567"
+    },
+    {
+      "path": "201607/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201607/osugi_wind_from_direction.nc",
+      "bytes": 50704,
+      "sha256": "04a338fee4ecd3f61332197458cc59b32ee69a31a149c874ef08cf45f5c6f8db"
+    },
+    {
+      "path": "201607/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201607/osugi_wind_speed.nc",
+      "bytes": 50672,
+      "sha256": "bd8d6697127c7dc6d7dda69f0633d8e2bb991e18d460058403089137c593e9e9"
+    },
+    {
+      "path": "201607/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201607/osugi_ysi_blue_green_algae.nc",
+      "bytes": 32420,
+      "sha256": "5df6fd898ade4916a31cbe07e6851528eceee69c5774762b942a0a7b9af08208"
+    },
+    {
+      "path": "201607/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201607/osugi_ysi_chlorophyll.nc",
+      "bytes": 32472,
+      "sha256": "bb644f4748f3a261c6bfe8ca2e01892c08d0337adb6e9ea40e636c67c57f2b84"
+    },
+    {
+      "path": "201607/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201607/osugi_ysi_turbidity.nc",
+      "bytes": 32432,
+      "sha256": "bc283a6cc14e7f259905ac113be0c08aa04ca547a4667f51771207232e40b6f1"
+    },
+    {
+      "path": "201609/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201609/osugi_air_pressure.nc",
+      "bytes": 50908,
+      "sha256": "791e4007d89017c10b82a6dc12dfa90487fbeefb1dccb6599968e106f2fff27e"
+    },
+    {
+      "path": "201609/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201609/osugi_air_temperature.nc",
+      "bytes": 50936,
+      "sha256": "b2fc8761cdaf573bceb8b803f8806381ae018c17baeb939a78cd79f78ae4beeb"
+    },
+    {
+      "path": "201609/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201609/osugi_ph.nc",
+      "bytes": 50912,
+      "sha256": "86b91bffdd8819040dfce8b40e116f458f0bf8fa91db5b8aec09ca52b7c43804"
+    },
+    {
+      "path": "201609/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201609/osugi_relative_humidity.nc",
+      "bytes": 50932,
+      "sha256": "4fbe3a0546a5bf8084f5695d9823e9953c6aba02e2f607ad2bedc6b50bab8511"
+    },
+    {
+      "path": "201609/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201609/osugi_water_conductivity.nc",
+      "bytes": 51056,
+      "sha256": "7871fc53199d810cdd36daf026253e579db89ea4c0054822bb2a00eb2c166c14"
+    },
+    {
+      "path": "201609/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201609/osugi_wind_from_direction.nc",
+      "bytes": 50912,
+      "sha256": "2c06389ce005561b7b5a0be1366a85b973de0bbf1b508c8911a09b8ea284393d"
+    },
+    {
+      "path": "201609/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201609/osugi_wind_speed.nc",
+      "bytes": 50864,
+      "sha256": "dd6e6053bce3e4c9e8e7540ceb725e860374ccde4172c54cf2a49843c3a1c4be"
+    },
+    {
+      "path": "201609/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201609/osugi_ysi_blue_green_algae.nc",
+      "bytes": 50980,
+      "sha256": "b451346519793d1cbaf2fb9adbd03b79636e6ba6b1f60c972b628dada0f2a619"
+    },
+    {
+      "path": "201609/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201609/osugi_ysi_chlorophyll.nc",
+      "bytes": 51032,
+      "sha256": "95910b3fc31973749a20cf5cd535dc1de0b7ea212d9d715d3cf6ccadadbca815"
+    },
+    {
+      "path": "201609/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201609/osugi_ysi_turbidity.nc",
+      "bytes": 50992,
+      "sha256": "91e908c02b224b88a2be7cbf203bebd80460a8b4945bc9c6d3ae6bd2ca446240"
+    },
+    {
+      "path": "201610/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201610/osugi_air_pressure.nc",
+      "bytes": 32348,
+      "sha256": "0d92c3561c181763c2ef9609ac7b8cfefd062a3aa5c3737ddb2accb169b746fa"
+    },
+    {
+      "path": "201610/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201610/osugi_air_temperature.nc",
+      "bytes": 32376,
+      "sha256": "acf678a25decfdd0d8e242118113f07df21783b405befd7bf1232a3033a67b0f"
+    },
+    {
+      "path": "201610/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201610/osugi_ph.nc",
+      "bytes": 32336,
+      "sha256": "0a66eb20b97a4be11c84f4d936037407f8c218bad50f6125a1685c8a74eb9044"
+    },
+    {
+      "path": "201610/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201610/osugi_relative_humidity.nc",
+      "bytes": 32372,
+      "sha256": "6a7675ef663d45da7fe0dcd2686ec08c07c59ca2d19645b2bd8016f3503e1539"
+    },
+    {
+      "path": "201610/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201610/osugi_water_conductivity.nc",
+      "bytes": 32480,
+      "sha256": "2b44b6462ddf830cd44d224e9d66f0aafa595c6ca1b57e198030e089b9005a16"
+    },
+    {
+      "path": "201610/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201610/osugi_wind_from_direction.nc",
+      "bytes": 32352,
+      "sha256": "83812ceed463b466ffd858e4386bdce0fcf468b16373efc126cfd7ef17aa9427"
+    },
+    {
+      "path": "201610/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201610/osugi_wind_speed.nc",
+      "bytes": 32304,
+      "sha256": "63afbebd82a43f926514dfa9e51038160051cce00003cb4e6e1c1ec0bbcc6927"
+    },
+    {
+      "path": "201610/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201610/osugi_ysi_blue_green_algae.nc",
+      "bytes": 32404,
+      "sha256": "c66734e636dc50a78c317fa60a0d890bd4b53608246576c49a85ebf51dbd49b2"
+    },
+    {
+      "path": "201610/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201610/osugi_ysi_chlorophyll.nc",
+      "bytes": 32456,
+      "sha256": "7f4e5e42581098a5dfdb8ca1580830e2844dbce81705d93de80a59349f7437f4"
+    },
+    {
+      "path": "201610/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201610/osugi_ysi_turbidity.nc",
+      "bytes": 32416,
+      "sha256": "3e41236000f41ece56a8cd3e48cb254716c2b788e87e597c5a7a77b3019d9140"
+    },
+    {
+      "path": "201704/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201704/osugi_air_pressure.nc",
+      "bytes": 8808,
+      "sha256": "e6c9c6f5a2d3e4ba766afffd5e02378416d8746e3bf99f01e494071ad54529c0"
+    },
+    {
+      "path": "201704/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201704/osugi_air_temperature.nc",
+      "bytes": 8836,
+      "sha256": "20668aeb61cb1d111a308dcf181de1afe6a695a48263994205e3274352548dba"
+    },
+    {
+      "path": "201704/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201704/osugi_ph.nc",
+      "bytes": 25680,
+      "sha256": "065ea25f44aa3aec0faf8c4aeaad5759bc4baf27dc7afeda70f826252eb33096"
+    },
+    {
+      "path": "201704/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201704/osugi_relative_humidity.nc",
+      "bytes": 8832,
+      "sha256": "6529002f20221f0da200c241c321222c0503276b21bd815e74497dfaace914f6"
+    },
+    {
+      "path": "201704/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201704/osugi_water_conductivity.nc",
+      "bytes": 25824,
+      "sha256": "f229f7c13e4e66afc5685b906b51fb2de075cb74e8c3c781b653d2c7d4cfbdce"
+    },
+    {
+      "path": "201704/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201704/osugi_wind_from_direction.nc",
+      "bytes": 8812,
+      "sha256": "fbdd38b3d9100518bc48bb3414e4b902d5c30d4b9ed6f40fb0a55a6be2258287"
+    },
+    {
+      "path": "201704/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201704/osugi_wind_speed.nc",
+      "bytes": 8768,
+      "sha256": "6798ca36a1b4fdd6a5d2dfe0abce28962647774e90018ca3f6c0247363adadc6"
+    },
+    {
+      "path": "201704/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201704/osugi_ysi_blue_green_algae.nc",
+      "bytes": 25744,
+      "sha256": "ed94b012563c1d41b7a928d14054e5da2c2a5bbf1ee622e87b073d0560cb8000"
+    },
+    {
+      "path": "201704/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201704/osugi_ysi_chlorophyll.nc",
+      "bytes": 25796,
+      "sha256": "e48f26e0c97b2cffa601602abdf3433c61661be41b311a109c91a93b5afff157"
+    },
+    {
+      "path": "201704/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201704/osugi_ysi_turbidity.nc",
+      "bytes": 25756,
+      "sha256": "84ffd30a6857b3eb823fc486c4ac87e63645788ee5bb0b1228b9730576cf9d67"
+    },
+    {
+      "path": "201705/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201705/osugi_air_pressure.nc",
+      "bytes": 31192,
+      "sha256": "06907bec064a7abcd6dc0a956cf086b8d27c0e6d8dcf22f80536cd31184db4b3"
+    },
+    {
+      "path": "201705/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201705/osugi_air_temperature.nc",
+      "bytes": 31220,
+      "sha256": "f1883fa0c285e6765dc8d93c0c8f81ad35051d58dd75ac7706a118bc34070ce7"
+    },
+    {
+      "path": "201705/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201705/osugi_ph.nc",
+      "bytes": 32912,
+      "sha256": "99ace81443c91c7f35aab328be7c71be600a5124eab9efae7913173008229764"
+    },
+    {
+      "path": "201705/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201705/osugi_relative_humidity.nc",
+      "bytes": 31216,
+      "sha256": "1a7eddc2b3994caf73a699aa11d2f5c504ba33034b4fa00c8b76025494152ba2"
+    },
+    {
+      "path": "201705/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201705/osugi_water_conductivity.nc",
+      "bytes": 33056,
+      "sha256": "a4792b90ef9eb02a7ef2e121937d94522f1fd54f18a160c413d6f0d4a9887c3a"
+    },
+    {
+      "path": "201705/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201705/osugi_wind_from_direction.nc",
+      "bytes": 31196,
+      "sha256": "8fc38c5e78267012af09ea3dae469acac9eabf00d35d5a97ff965f0edb82c22f"
+    },
+    {
+      "path": "201705/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201705/osugi_wind_speed.nc",
+      "bytes": 31152,
+      "sha256": "6e0ee9e121036925160c32a83cffea3c101a797a519145e5835cf6a3eaa4322b"
+    },
+    {
+      "path": "201705/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201705/osugi_ysi_blue_green_algae.nc",
+      "bytes": 32976,
+      "sha256": "20ea68831387e2ea2897443fcd8ad828767625404afd7b4de898481558282fbb"
+    },
+    {
+      "path": "201705/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201705/osugi_ysi_chlorophyll.nc",
+      "bytes": 33028,
+      "sha256": "7a1d123b04a7af435d8a239547435928a2de18370dd05217a58803858d1ad106"
+    },
+    {
+      "path": "201705/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201705/osugi_ysi_turbidity.nc",
+      "bytes": 32988,
+      "sha256": "27d0e2027c9f4a6366c423ce8e185a82868211902d969ae36a5dadb72f420a2d"
+    },
+    {
+      "path": "201706/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201706/osugi_air_pressure.nc",
+      "bytes": 31608,
+      "sha256": "fbca5c945874a3cefbccb8587be2950c974e3414652adf710bc466f60c55cf38"
+    },
+    {
+      "path": "201706/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201706/osugi_air_temperature.nc",
+      "bytes": 31636,
+      "sha256": "172db9d65a1886525b3f3c8ecbc250450c247c443b62306dc4d82ea073299e46"
+    },
+    {
+      "path": "201706/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201706/osugi_ph.nc",
+      "bytes": 31600,
+      "sha256": "a3431a62d1f6585d93b65ac62afd59d5d395d82282b5c4ea7d66eeb918e3c28a"
+    },
+    {
+      "path": "201706/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201706/osugi_relative_humidity.nc",
+      "bytes": 31632,
+      "sha256": "44aca2cc4b03d038f241824e5eb8f64a31a48f6e39892e315a724b57ed720535"
+    },
+    {
+      "path": "201706/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201706/osugi_water_conductivity.nc",
+      "bytes": 31744,
+      "sha256": "aba418a209ed5100681e8ff67f10df6f7bee221bca819e3883e0a84c0776eb78"
+    },
+    {
+      "path": "201706/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201706/osugi_wind_from_direction.nc",
+      "bytes": 31612,
+      "sha256": "1c785183d6ea75014be234c41e409860091b77aafe7e36d27800999361556e62"
+    },
+    {
+      "path": "201706/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201706/osugi_wind_speed.nc",
+      "bytes": 31568,
+      "sha256": "fd295a7bad2d43f3be1028ccf0900f94f9e5d383eb3e949bd381b978d2e291ae"
+    },
+    {
+      "path": "201706/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201706/osugi_ysi_blue_green_algae.nc",
+      "bytes": 31664,
+      "sha256": "c1806b351ac3969b429ff78fd6b8c8ea241feec26740837c6526e6ec8cdbce01"
+    },
+    {
+      "path": "201706/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201706/osugi_ysi_chlorophyll.nc",
+      "bytes": 31716,
+      "sha256": "18449a6e1977a493433e5d527791f82d0d99349ef1bb7903bc2d9c538584924b"
+    },
+    {
+      "path": "201706/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201706/osugi_ysi_turbidity.nc",
+      "bytes": 31676,
+      "sha256": "5e07699718d3f680d8b4dde2d60b9d7c524324c17f891d3331db206723d84ed7"
+    },
+    {
+      "path": "201707/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201707/osugi_air_pressure.nc",
+      "bytes": 52328,
+      "sha256": "8bbed2cbd425adb62d08b585839c55f195e3196262917e5572b639aa3a51cdf4"
+    },
+    {
+      "path": "201707/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201707/osugi_air_temperature.nc",
+      "bytes": 52356,
+      "sha256": "75195ac61097bf04e9ad4d1cd22ce4f730b5299ed811f4dcbf1cc28f233cdb22"
+    },
+    {
+      "path": "201707/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201707/osugi_ph.nc",
+      "bytes": 52336,
+      "sha256": "4895cd73e90c4950c589c41f200bc6532f707307d70289d4ab749af4c52fd66b"
+    },
+    {
+      "path": "201707/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201707/osugi_relative_humidity.nc",
+      "bytes": 52352,
+      "sha256": "83ba95cf136435791dbb424f2b2a442a2ddae35b9cbc6c296c360ed6c7b8e188"
+    },
+    {
+      "path": "201707/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201707/osugi_water_conductivity.nc",
+      "bytes": 52480,
+      "sha256": "f7842ce3a89d256e2f9ab47d0753cf2fc41eaab2ec73528bb44de948b9a72fcc"
+    },
+    {
+      "path": "201707/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201707/osugi_wind_from_direction.nc",
+      "bytes": 52332,
+      "sha256": "8ad69fcd28b547dc00b36a25963c094d2ed1aebba0b97d9b34032392fca35347"
+    },
+    {
+      "path": "201707/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201707/osugi_wind_speed.nc",
+      "bytes": 52288,
+      "sha256": "d53679999125b85020cfad4670773ca4529f1bc0d92af11403286d6301dce575"
+    },
+    {
+      "path": "201707/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201707/osugi_ysi_blue_green_algae.nc",
+      "bytes": 52400,
+      "sha256": "4987e5751f7dbdcd868d20ae1a28fdb8c3b0f5d78b0a5f77ebf90479704110f6"
+    },
+    {
+      "path": "201707/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201707/osugi_ysi_chlorophyll.nc",
+      "bytes": 52452,
+      "sha256": "4b6c47138c551d63a317b56541ff267906e7112872d56a55c8762dc521381f6e"
+    },
+    {
+      "path": "201707/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201707/osugi_ysi_turbidity.nc",
+      "bytes": 52412,
+      "sha256": "3b869b1ad20c17623a3cb9eb7d20b5c3eef01f32910a8dbef073d57594237bb8"
+    },
+    {
+      "path": "201708/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201708/osugi_air_pressure.nc",
+      "bytes": 51752,
+      "sha256": "f47b14c471b041bc439e179907093f7d9a90cc388206b163196f27336ef48642"
+    },
+    {
+      "path": "201708/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201708/osugi_air_temperature.nc",
+      "bytes": 51780,
+      "sha256": "5e188d3394a357350dc62e933d6235dbba023b3c014e610530a1490cfaf62658"
+    },
+    {
+      "path": "201708/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201708/osugi_ph.nc",
+      "bytes": 51632,
+      "sha256": "e6e253695c806570ecbba8e768e5f9885a9a2773b7a1793f1b40628ac58cc1aa"
+    },
+    {
+      "path": "201708/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201708/osugi_relative_humidity.nc",
+      "bytes": 51776,
+      "sha256": "734127968645264723d792af8e1df6bd362fb623ba6903a8a5a9ac1fa00e37f4"
+    },
+    {
+      "path": "201708/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201708/osugi_water_conductivity.nc",
+      "bytes": 51776,
+      "sha256": "93827bf6fb8a30d3516cbf9430267bc4417ee5bba27df2b63cbf4b8d3dc422ea"
+    },
+    {
+      "path": "201708/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201708/osugi_wind_from_direction.nc",
+      "bytes": 51756,
+      "sha256": "dee94a2532a92d0b0544c3ac5b5aaedef19db8897836a18d7b6326da17bca116"
+    },
+    {
+      "path": "201708/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201708/osugi_wind_speed.nc",
+      "bytes": 51712,
+      "sha256": "0519ca83423f61ed1dda2423091db8c0e3e58d6fea66912a737f01db443b6010"
+    },
+    {
+      "path": "201708/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201708/osugi_ysi_blue_green_algae.nc",
+      "bytes": 51696,
+      "sha256": "d8f98edfd0e13a2c7b7d8580e53f939f6085302423916a984c1cd85856737319"
+    },
+    {
+      "path": "201708/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201708/osugi_ysi_chlorophyll.nc",
+      "bytes": 51748,
+      "sha256": "92b0268c011c51eba9868c9103e844c53d2e7240482cdc6e357834e8abe9bfa8"
+    },
+    {
+      "path": "201708/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201708/osugi_ysi_turbidity.nc",
+      "bytes": 51708,
+      "sha256": "b07cf321a92e1c7700174b87c45f54e9e363a728a63bff31e929119d1292bef7"
+    },
+    {
+      "path": "201709/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201709/osugi_air_pressure.nc",
+      "bytes": 51240,
+      "sha256": "278eb54f2f3e47beed202fbb5ac25c57460be73055666d364b27623888d88323"
+    },
+    {
+      "path": "201709/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201709/osugi_air_temperature.nc",
+      "bytes": 51268,
+      "sha256": "9ea4e95566195d37de91ac36be98482e31fa3f31109625fe14704bc448ee18cf"
+    },
+    {
+      "path": "201709/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201709/osugi_ph.nc",
+      "bytes": 51248,
+      "sha256": "d7b5b82db1489ad8ef87995cb7e905172f4909032fe6510512be178b731fa899"
+    },
+    {
+      "path": "201709/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201709/osugi_relative_humidity.nc",
+      "bytes": 51264,
+      "sha256": "313969499f73643a3cf9c3f0e20613362874216988bf26fd784529eb7d11453c"
+    },
+    {
+      "path": "201709/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201709/osugi_water_conductivity.nc",
+      "bytes": 51392,
+      "sha256": "41d291bb161d5529c6f2ef7fd8b69eed5fdfa96dcdde90ca7b661aef5b576fa2"
+    },
+    {
+      "path": "201709/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201709/osugi_wind_from_direction.nc",
+      "bytes": 51244,
+      "sha256": "346dca5884cf879f4a778385c607c42df62e47228c856c35272098045241b9e8"
+    },
+    {
+      "path": "201709/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201709/osugi_wind_speed.nc",
+      "bytes": 51200,
+      "sha256": "c5ed22c93bc934bdd57be36851e0fa0fe8b959140865a031a3036034f835caef"
+    },
+    {
+      "path": "201709/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201709/osugi_ysi_blue_green_algae.nc",
+      "bytes": 51312,
+      "sha256": "1ebee7a17b4cdae191c7a3942a6f4879e31c2b738117a877c0439e861d81df35"
+    },
+    {
+      "path": "201709/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201709/osugi_ysi_chlorophyll.nc",
+      "bytes": 51364,
+      "sha256": "e8f1e302a1cf2a599697dfc9ae534883ad46e1876564c7f3fdc9e97ea9801db7"
+    },
+    {
+      "path": "201709/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201709/osugi_ysi_turbidity.nc",
+      "bytes": 51324,
+      "sha256": "c9ae01d9136d8f83a5cf3683c1cb5d976acb200987b183a57a502c7b21daee75"
+    },
+    {
+      "path": "201710/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201710/osugi_air_pressure.nc",
+      "bytes": 35816,
+      "sha256": "506efddf8467a3707622ab8038a68bc79fc7f380446040d17857b5c8c62f57e9"
+    },
+    {
+      "path": "201710/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201710/osugi_air_temperature.nc",
+      "bytes": 35844,
+      "sha256": "5aaedf08591f87089f5442dfcc9474ef00af8d79303f49e95db38fcc75cabf4d"
+    },
+    {
+      "path": "201710/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201710/osugi_ph.nc",
+      "bytes": 35792,
+      "sha256": "2c6919b2997e4dcf0379ce205df1f555f44e4fef5da9f23c1c7a98c016784429"
+    },
+    {
+      "path": "201710/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201710/osugi_relative_humidity.nc",
+      "bytes": 35840,
+      "sha256": "7d6597c42454ee81dfc23406e0a5823d7b9aed3990b87c0bf6ea235d4316c3a7"
+    },
+    {
+      "path": "201710/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201710/osugi_water_conductivity.nc",
+      "bytes": 35936,
+      "sha256": "474b9bea6fc7ffdc96c37e9a59f5d1edb89e0d964244029649bd4d82b841cf5e"
+    },
+    {
+      "path": "201710/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201710/osugi_wind_from_direction.nc",
+      "bytes": 35820,
+      "sha256": "cd678cfb91b30d4ac48031d43db27f470af2daf51e33d01faf18c341c8824564"
+    },
+    {
+      "path": "201710/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201710/osugi_wind_speed.nc",
+      "bytes": 35776,
+      "sha256": "8153d21cd56291a1e03310d81df3f737d67e425426beb3971e1beb98c165ae8b"
+    },
+    {
+      "path": "201710/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201710/osugi_ysi_blue_green_algae.nc",
+      "bytes": 35856,
+      "sha256": "9bb3d76ba00da82f2501359876239167ff5f1412b1238e7e1e08a2c3b443ddee"
+    },
+    {
+      "path": "201710/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201710/osugi_ysi_chlorophyll.nc",
+      "bytes": 35908,
+      "sha256": "e24629c61e4914c0cf5cadbbe60c1b6f5aa61e960a975867ea1518cb13cd5025"
+    },
+    {
+      "path": "201710/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201710/osugi_ysi_turbidity.nc",
+      "bytes": 35868,
+      "sha256": "0c803a93867e028a002a219c1cab4ad126e7b345ee46ee4f55ef8c15ee3b9648"
+    },
+    {
+      "path": "201804/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201804/osugi_air_pressure.nc",
+      "bytes": 16504,
+      "sha256": "39accd794c99fb5ec154cc34cb4fb9816c568ffaa6fe47b143484f96b1f7b8ca"
+    },
+    {
+      "path": "201804/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201804/osugi_air_temperature.nc",
+      "bytes": 16532,
+      "sha256": "d16393fe7fb41477b8d62862219bc7d5fb26d7ee5dff6e182f4862ce91fb1e4d"
+    },
+    {
+      "path": "201804/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201804/osugi_ph.nc",
+      "bytes": 16560,
+      "sha256": "dd8bb0d53ad80ee23c390dc71850a9a52401ae948c1ea859280263493ffd3c95"
+    },
+    {
+      "path": "201804/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201804/osugi_relative_humidity.nc",
+      "bytes": 16528,
+      "sha256": "b508bed7bae0209926c2d237cc0aa4f635dad5143c70554dce4d8b4ac11ee608"
+    },
+    {
+      "path": "201804/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201804/osugi_water_conductivity.nc",
+      "bytes": 16704,
+      "sha256": "717c1e34493648eda2c5e7b67e64e01bb5a50bbc5d9a1657f0c4809efc756f5e"
+    },
+    {
+      "path": "201804/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201804/osugi_wind_from_direction.nc",
+      "bytes": 16508,
+      "sha256": "1bfb6ee9018d03861401a074a23e680a7997468bc5308e4ebbdb9dc0aa45ddbd"
+    },
+    {
+      "path": "201804/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201804/osugi_wind_speed.nc",
+      "bytes": 16464,
+      "sha256": "c3c4794b95f8165fc2aac194ffd633a34f01b4dc04f91d646ae6704d44a1a86e"
+    },
+    {
+      "path": "201804/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201804/osugi_ysi_blue_green_algae.nc",
+      "bytes": 16624,
+      "sha256": "d2b8b6b3fabf9e4c388010454ed81e3b40ccd133d593e2fd8351b94363942fb9"
+    },
+    {
+      "path": "201804/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201804/osugi_ysi_chlorophyll.nc",
+      "bytes": 16676,
+      "sha256": "311785c08ce72a1f38d6882bfbbe72fbb7ef79ec5179916696724527d3e7120b"
+    },
+    {
+      "path": "201804/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201804/osugi_ysi_turbidity.nc",
+      "bytes": 16636,
+      "sha256": "12dfd8029192c7f6aadce0794cfcd5e089996cfda6b22b30768dbcc5882afc0c"
+    },
+    {
+      "path": "201806/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201806/osugi_air_pressure.nc",
+      "bytes": 50040,
+      "sha256": "34fcaaa23fc50756b32efe78cc3f83b7a6adfae5660da39b9294c5f0fcac85bf"
+    },
+    {
+      "path": "201806/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201806/osugi_air_temperature.nc",
+      "bytes": 50068,
+      "sha256": "ce58f1da192a26eb34daea6f8d8bb00cf0fab23fef690ec0fc21493dde76294f"
+    },
+    {
+      "path": "201806/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201806/osugi_ph.nc",
+      "bytes": 50048,
+      "sha256": "d678677ae059a352b7c669a082de4ddd6fdce15aa5590b18afde9200d65de035"
+    },
+    {
+      "path": "201806/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201806/osugi_relative_humidity.nc",
+      "bytes": 50064,
+      "sha256": "3cb373601be24a1d77d5caa0c569b6cd655ab90912130489c82a65907b2b83c5"
+    },
+    {
+      "path": "201806/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201806/osugi_water_conductivity.nc",
+      "bytes": 50192,
+      "sha256": "78c37c04b90a9c9e76e393fb7d357271f9f6d76a6a7cdf2b77095d2165196981"
+    },
+    {
+      "path": "201806/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201806/osugi_wind_from_direction.nc",
+      "bytes": 50044,
+      "sha256": "d08adf22bf1f015546c5d9f3bc63f61cd2b77f559fb81e4e761e7950b5d690ca"
+    },
+    {
+      "path": "201806/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201806/osugi_wind_speed.nc",
+      "bytes": 50000,
+      "sha256": "d992dc3a544269072e5beaf0a8da7bf140cd18cef95b9c26c0bb4ce90d7fb7de"
+    },
+    {
+      "path": "201806/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201806/osugi_ysi_blue_green_algae.nc",
+      "bytes": 50112,
+      "sha256": "f4a0e078f8a7f0727b8122f7cab4c2df1614c699f91d747ab0feb91b03e7a99f"
+    },
+    {
+      "path": "201806/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201806/osugi_ysi_chlorophyll.nc",
+      "bytes": 50164,
+      "sha256": "fbd635b93333e229cb22edca84a94c4789bbf1b71ffc18cd341d09f97a44e12e"
+    },
+    {
+      "path": "201806/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201806/osugi_ysi_turbidity.nc",
+      "bytes": 50124,
+      "sha256": "de29760994e94a6a1420617b0dc9a2ebd64cd642696b609ae6a4e264dfe1e4ef"
+    },
+    {
+      "path": "201807/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201807/osugi_air_pressure.nc",
+      "bytes": 51128,
+      "sha256": "b023091ce13f2142b47f6857b0f073c89e6071bc67effa1138def6db570edf14"
+    },
+    {
+      "path": "201807/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201807/osugi_air_temperature.nc",
+      "bytes": 51156,
+      "sha256": "7bef40ea1df9941890d8a04731011c407f564b6a182543f85360e782c71a6992"
+    },
+    {
+      "path": "201807/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201807/osugi_ph.nc",
+      "bytes": 51136,
+      "sha256": "f9c665cbc9ad19b50d172b96c4981a7df7c0f80b0b1ef67139989121be86243b"
+    },
+    {
+      "path": "201807/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201807/osugi_relative_humidity.nc",
+      "bytes": 51152,
+      "sha256": "d8b6ae0b8bf07a4cad0bf5a9ceac6fb1e3a8c2400cb593dc2f7812e148b4bf33"
+    },
+    {
+      "path": "201807/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201807/osugi_water_conductivity.nc",
+      "bytes": 51280,
+      "sha256": "6280b6a46d6fdbf657d0f408e3945a45b1fd51cd5ca580167430824ac7343394"
+    },
+    {
+      "path": "201807/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201807/osugi_wind_from_direction.nc",
+      "bytes": 51132,
+      "sha256": "8f64cf1d87e6cbae2188832901c20110b8fde2894cf0e70c1d7655fc0db7be75"
+    },
+    {
+      "path": "201807/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201807/osugi_wind_speed.nc",
+      "bytes": 51088,
+      "sha256": "b87dade7c291a387befae3822071995328ec1775978a77dbaa22a4d20441b2e7"
+    },
+    {
+      "path": "201807/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201807/osugi_ysi_blue_green_algae.nc",
+      "bytes": 51200,
+      "sha256": "f5ee0257e206a7ff9c0b46828cc683ac939c2d428f64c9cb72f714fa4ec4bab9"
+    },
+    {
+      "path": "201807/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201807/osugi_ysi_chlorophyll.nc",
+      "bytes": 51252,
+      "sha256": "955be6ff321c9d6f7886074c7101e654a0260351166a54ae469bc771c57a0271"
+    },
+    {
+      "path": "201807/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201807/osugi_ysi_turbidity.nc",
+      "bytes": 51212,
+      "sha256": "b105ff892d66d84460e74c877fa111920cc4c97520c7a78c25c7b92da02845c0"
+    },
+    {
+      "path": "201808/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201808/osugi_air_pressure.nc",
+      "bytes": 52904,
+      "sha256": "9a722cbb767566c0088a3cce74da874128f5aafb713e0db60170e648347ed607"
+    },
+    {
+      "path": "201808/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201808/osugi_air_temperature.nc",
+      "bytes": 52932,
+      "sha256": "0f136a53cc244617749d73f4a77e200b15d4b16ea9f4acc39378eb0d90142ff6"
+    },
+    {
+      "path": "201808/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201808/osugi_ph.nc",
+      "bytes": 52912,
+      "sha256": "ee88f467568cbc1700011ba3fd21b4317af81a1e0fe73c483b856ebb0a17f2be"
+    },
+    {
+      "path": "201808/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201808/osugi_relative_humidity.nc",
+      "bytes": 52928,
+      "sha256": "188cd518db4cb0b997be760534d73f82fff7f6c88bc12e4e345588d9699edad3"
+    },
+    {
+      "path": "201808/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201808/osugi_water_conductivity.nc",
+      "bytes": 53056,
+      "sha256": "851d787301a9c71558b392cff5d47f49e6fe76a03b6e045896fb96aefaebfa6d"
+    },
+    {
+      "path": "201808/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201808/osugi_wind_from_direction.nc",
+      "bytes": 52908,
+      "sha256": "79be990c9336c8381b523df83e5d09ff078373755901fb97b39fa52c7e1ff8dd"
+    },
+    {
+      "path": "201808/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201808/osugi_wind_speed.nc",
+      "bytes": 52864,
+      "sha256": "5aec7ca2458b009f2d7a821b241806b648599febfe78016b8b6e782c7dfce544"
+    },
+    {
+      "path": "201808/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201808/osugi_ysi_blue_green_algae.nc",
+      "bytes": 52976,
+      "sha256": "5aab72e2fdb4c2b2c5db1a71b7feec2003fddc14590c16328f25ebaee0207572"
+    },
+    {
+      "path": "201808/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201808/osugi_ysi_chlorophyll.nc",
+      "bytes": 53028,
+      "sha256": "5a1f5f19247e32ae101358c0d1dbe2bec59452694092d6139f9fd867d365ee7c"
+    },
+    {
+      "path": "201808/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201808/osugi_ysi_turbidity.nc",
+      "bytes": 52988,
+      "sha256": "b87e59810d4e2dccc938324721c5d30dea26cd7489e31944eb4800da8992d3a5"
+    },
+    {
+      "path": "201809/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201809/osugi_air_pressure.nc",
+      "bytes": 51368,
+      "sha256": "be0307dca5e82b556853b2c559b02ba516a91f97eec3d27f820d47879236b73c"
+    },
+    {
+      "path": "201809/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201809/osugi_air_temperature.nc",
+      "bytes": 51396,
+      "sha256": "111e0822f181846f06470708bfc52c7b387432c6cd30f8f3cfeb3d5df97f9a7e"
+    },
+    {
+      "path": "201809/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201809/osugi_ph.nc",
+      "bytes": 51376,
+      "sha256": "8ed270eae35c9ad021d9f6c0bb8d531a3cae1bfd5a4ff3b602fce9bd139c8e36"
+    },
+    {
+      "path": "201809/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201809/osugi_relative_humidity.nc",
+      "bytes": 51392,
+      "sha256": "e7ab5adc5619c4629d7b255700f8f66e662db528f7434ae114e37ff04ed33c76"
+    },
+    {
+      "path": "201809/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201809/osugi_water_conductivity.nc",
+      "bytes": 51520,
+      "sha256": "a48a3e2120e1a72b51ea3a660871c3a2b9d7b2ac129a8a58b364928cfdbfb04f"
+    },
+    {
+      "path": "201809/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201809/osugi_wind_from_direction.nc",
+      "bytes": 51372,
+      "sha256": "8c2244f6e7c4bc092b72c0c5b3ee202f733b7733de6adb8b0ad6982b11209475"
+    },
+    {
+      "path": "201809/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201809/osugi_wind_speed.nc",
+      "bytes": 51328,
+      "sha256": "491d93482d6dc3d98bd3685d6f34915a9d4ada64393df37e07ef9b9d291195f7"
+    },
+    {
+      "path": "201809/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201809/osugi_ysi_blue_green_algae.nc",
+      "bytes": 51440,
+      "sha256": "c829eb6ae795aecd695ad12093272429b181c4a60507841cfb335d2b54492a1e"
+    },
+    {
+      "path": "201809/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201809/osugi_ysi_chlorophyll.nc",
+      "bytes": 51492,
+      "sha256": "67eaf4bcdc61ff1c1a6eccd5e6ffa12ccb2e504ed1aa00de6c83c22c00aa6c73"
+    },
+    {
+      "path": "201809/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201809/osugi_ysi_turbidity.nc",
+      "bytes": 51452,
+      "sha256": "c40e0ee25e7f2ada8fa062539c9df4955d1b022ef3439f0486ebf6b0d39211da"
+    },
+    {
+      "path": "201810/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201810/osugi_air_pressure.nc",
+      "bytes": 25048,
+      "sha256": "2043f3a4509db6d7b08dbad136552d1427bf99167f73288b991f2f1567830de3"
+    },
+    {
+      "path": "201810/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201810/osugi_air_temperature.nc",
+      "bytes": 25076,
+      "sha256": "9f6f31ddfc2262e891fa7f35f9933dc3446df346f8a04b6aebc270bb19a3a0b2"
+    },
+    {
+      "path": "201810/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201810/osugi_ph.nc",
+      "bytes": 25952,
+      "sha256": "26e09e2aae70cbea78d3e33e71263c6a6bcfb3e14f41b0d4ee7ead932f0b1af0"
+    },
+    {
+      "path": "201810/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201810/osugi_relative_humidity.nc",
+      "bytes": 25072,
+      "sha256": "5df86d7bf46ed3a992a24591244464ed9daf094542fcd4d85456dc075dad94de"
+    },
+    {
+      "path": "201810/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201810/osugi_water_conductivity.nc",
+      "bytes": 26096,
+      "sha256": "038cc2bb309750729a713b0e65534963207c3168d4e2f2cb4da494bd529d149c"
+    },
+    {
+      "path": "201810/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201810/osugi_wind_from_direction.nc",
+      "bytes": 25052,
+      "sha256": "ecb97bc49b3a32a93ee82efffbc06a8ff35ed2aa65020fad585a5a7d00ed1dd4"
+    },
+    {
+      "path": "201810/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201810/osugi_wind_speed.nc",
+      "bytes": 25008,
+      "sha256": "f747ad415df9f2210493c04ceb27b6bfe14d8d0b936fed23c2885a8fd28fbafa"
+    },
+    {
+      "path": "201810/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201810/osugi_ysi_blue_green_algae.nc",
+      "bytes": 26016,
+      "sha256": "33e805ae9276588be52fe422be622fd52c76e7641cdcc79585eed2ae1a44c749"
+    },
+    {
+      "path": "201810/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201810/osugi_ysi_chlorophyll.nc",
+      "bytes": 26068,
+      "sha256": "f6b6716034133592216988e55829430a277f74e63d1078341ee62117a3ce7721"
+    },
+    {
+      "path": "201810/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201810/osugi_ysi_turbidity.nc",
+      "bytes": 26028,
+      "sha256": "63f527c38304b30447dd53498340ebe9d15cbce2a11bf54e2f79d3d42dd9adcc"
+    },
+    {
+      "path": "201907/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201907/osugi_ph.nc",
+      "bytes": 8624,
+      "sha256": "8493d47b91cba47be8b02f28710bfdb54fd70e1da4c5d3e19b7c61ddf3499ff1"
+    },
+    {
+      "path": "201907/osugi_sea_water_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201907/osugi_sea_water_temperature.nc",
+      "bytes": 8868,
+      "sha256": "8d00c5e7567777e1e7457ea12735dba60c9c16739555aab475de45c7aa09b7ba"
+    },
+    {
+      "path": "201907/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201907/osugi_water_conductivity.nc",
+      "bytes": 8768,
+      "sha256": "07f7e6082686fefa695f220b8e81ccdc6e00b1318a65c486c98a30a1fcc02b2a"
+    },
+    {
+      "path": "201907/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201907/osugi_ysi_blue_green_algae.nc",
+      "bytes": 8688,
+      "sha256": "ee12e126d1caeb70065bd98189e6c12c354180cb9902a3b6fe7a90f7d673da7b"
+    },
+    {
+      "path": "201907/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/201907/osugi_ysi_turbidity.nc",
+      "bytes": 8700,
+      "sha256": "ce4aead52785b01268a4a82f128098b628e66e6b256c4d566e7f248ab9a12e01"
+    },
+    {
+      "path": "202010/osugi_air_pressure.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202010/osugi_air_pressure.nc",
+      "bytes": 6632,
+      "sha256": "3036f370a4af8044206e5a5792aab0dc0409a16cf11c36fbdb8f1eed7a435ff1"
+    },
+    {
+      "path": "202010/osugi_air_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202010/osugi_air_temperature.nc",
+      "bytes": 6660,
+      "sha256": "28189359d06f58cff7cce483e37ec40f818cf128fdba1d5426c544c0770642c6"
+    },
+    {
+      "path": "202010/osugi_ph.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202010/osugi_ph.nc",
+      "bytes": 6640,
+      "sha256": "efedd42f4fcb0779b515bb43ba319520e1a6185193e7d28b1a830999be67303e"
+    },
+    {
+      "path": "202010/osugi_relative_humidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202010/osugi_relative_humidity.nc",
+      "bytes": 6656,
+      "sha256": "b16b4d5e9fdb0f8f7f73f173b325d9017448a8d30d99b994c6655efd224ffe9d"
+    },
+    {
+      "path": "202010/osugi_sea_water_temperature.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202010/osugi_sea_water_temperature.nc",
+      "bytes": 6884,
+      "sha256": "e08bfeba27a8c9f3af2b276019c35833f4681b1918fd46673a41ae2f5d38d981"
+    },
+    {
+      "path": "202010/osugi_water_conductivity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202010/osugi_water_conductivity.nc",
+      "bytes": 6784,
+      "sha256": "4c4213a2f99426537fa7ec511973824f1071472c5c082e30fb2c200f1e69b14c"
+    },
+    {
+      "path": "202010/osugi_wind_from_direction.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202010/osugi_wind_from_direction.nc",
+      "bytes": 6636,
+      "sha256": "f250b35d283060395eac4fd5ff96e6d0e60e923bf6d4a8d4340656f31826a629"
+    },
+    {
+      "path": "202010/osugi_wind_speed.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202010/osugi_wind_speed.nc",
+      "bytes": 6592,
+      "sha256": "b9934aca2d04588d9e77e462e595fc15cdca2ddd8c9f14f4600af99d471057ae"
+    },
+    {
+      "path": "202010/osugi_ysi_blue_green_algae.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202010/osugi_ysi_blue_green_algae.nc",
+      "bytes": 6704,
+      "sha256": "9f783f38fb7ece6f259455c78fee3e43511f4768472e96d840ce1c6723558ef4"
+    },
+    {
+      "path": "202010/osugi_ysi_chlorophyll.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202010/osugi_ysi_chlorophyll.nc",
+      "bytes": 6756,
+      "sha256": "1f96ffb74a66acd96c5788f140f3d947b9f4ce789fdb35ea1f3bee9aa7961461"
+    },
+    {
+      "path": "202010/osugi_ysi_turbidity.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202010/osugi_ysi_turbidity.nc",
+      "bytes": 6716,
+      "sha256": "5708c986a8321abb580b31271dc8a5402b9e6b6679d706cddab25708b1ca2d87"
+    },
+    {
+      "path": "202106/OSUGI_air-pressure_000-0_2021-06-01_2021-07-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202106/OSUGI_air-pressure_000-0_2021-06-01_2021-07-01.nc",
+      "bytes": 149370,
+      "sha256": "d4ccb8952a8656a3aa95b6b996f52c85ab77ba14db42c9c575d163b1161ee634"
+    },
+    {
+      "path": "202106/OSUGI_air-temperature_000-0_2021-06-01_2021-07-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202106/OSUGI_air-temperature_000-0_2021-06-01_2021-07-01.nc",
+      "bytes": 149368,
+      "sha256": "8be8ad3cfc005a19bacaf55e21da888641bb3e491894c3c0a377aaca60c7f834"
+    },
+    {
+      "path": "202106/OSUGI_fractional-saturation-of-oxygen-in-sea-water_000-0_2021-06-01_2021-07-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202106/OSUGI_fractional-saturation-of-oxygen-in-sea-water_000-0_2021-06-01_2021-07-01.nc",
+      "bytes": 151409,
+      "sha256": "ffb39dad3edd5fa300bf6b016757e8a14956c23cdbad660f8ee9372c194d374e"
+    },
+    {
+      "path": "202106/OSUGI_mass-concentration-of-oxygen-in-sea-water_000-0_2021-06-01_2021-07-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202106/OSUGI_mass-concentration-of-oxygen-in-sea-water_000-0_2021-06-01_2021-07-01.nc",
+      "bytes": 151376,
+      "sha256": "a880725ec4f0b6e151161a5ad8a7821fe87817e993d08e046a7edbd2cf3b4cf7"
+    },
+    {
+      "path": "202106/OSUGI_relative-humidity_000-0_2021-06-01_2021-07-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202106/OSUGI_relative-humidity_000-0_2021-06-01_2021-07-01.nc",
+      "bytes": 148752,
+      "sha256": "0e564ecd35453e725c4fa93e1a53f9547b504b158e68175346e78023c29913a1"
+    },
+    {
+      "path": "202106/OSUGI_sea-water-ph-reported-on-total-scale_000-0_2021-06-01_2021-07-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202106/OSUGI_sea-water-ph-reported-on-total-scale_000-0_2021-06-01_2021-07-01.nc",
+      "bytes": 150957,
+      "sha256": "5b3a0efa7eb3c05333767d9f89c1bb22bbaf09f29c2124066c895b468eabff93"
+    },
+    {
+      "path": "202106/OSUGI_sea-water-temperature_000-0_2021-06-01_2021-07-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202106/OSUGI_sea-water-temperature_000-0_2021-06-01_2021-07-01.nc",
+      "bytes": 150922,
+      "sha256": "de3fd476c088fe4dc75b6c79a906146ed02f23721f6dec828cc5d7dc6e6330f7"
+    },
+    {
+      "path": "202106/OSUGI_sea-water-temperature_001-0_2021-06-01_2021-07-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202106/OSUGI_sea-water-temperature_001-0_2021-06-01_2021-07-01.nc",
+      "bytes": 150949,
+      "sha256": "11194a54496f7226649164b3757fcbee0a09f63a9022dc9402c8d0171ff296a2"
+    },
+    {
+      "path": "202106/OSUGI_wind-from-direction_000-0_2021-06-01_2021-07-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202106/OSUGI_wind-from-direction_000-0_2021-06-01_2021-07-01.nc",
+      "bytes": 148784,
+      "sha256": "6fc8f6402da20d224e1c1c111a3722b085ba9b866e5162a1806a565da4275cfc"
+    },
+    {
+      "path": "202106/OSUGI_wind-speed_000-0_2021-06-01_2021-07-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202106/OSUGI_wind-speed_000-0_2021-06-01_2021-07-01.nc",
+      "bytes": 148763,
+      "sha256": "718ef59a7ed78b3b3f683a2cb5bc874d76392c5691586aabc570892286c342d9"
+    },
+    {
+      "path": "202107/OSUGI_air-pressure_000-0_2021-07-01_2021-08-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202107/OSUGI_air-pressure_000-0_2021-07-01_2021-08-01.nc",
+      "bytes": 212842,
+      "sha256": "e795e528855ffd5038514f7c133a7bc46b5dd0246c8ee2a72f6e82849a1baefb"
+    },
+    {
+      "path": "202107/OSUGI_air-temperature_000-0_2021-07-01_2021-08-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202107/OSUGI_air-temperature_000-0_2021-07-01_2021-08-01.nc",
+      "bytes": 212840,
+      "sha256": "f015932da8f71f0949e8680a58107b0ac7748459bfc1d2ae63d413e702d6a794"
+    },
+    {
+      "path": "202107/OSUGI_fractional-saturation-of-oxygen-in-sea-water_000-0_2021-07-01_2021-08-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202107/OSUGI_fractional-saturation-of-oxygen-in-sea-water_000-0_2021-07-01_2021-08-01.nc",
+      "bytes": 212265,
+      "sha256": "4b99d2bb34da05e9dd5205e81290d69a03a1fa8860bd18a3735d10781eb04ec6"
+    },
+    {
+      "path": "202107/OSUGI_mass-concentration-of-oxygen-in-sea-water_000-0_2021-07-01_2021-08-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202107/OSUGI_mass-concentration-of-oxygen-in-sea-water_000-0_2021-07-01_2021-08-01.nc",
+      "bytes": 212232,
+      "sha256": "ec59d5c01181ea4a975f9b89de24bb1e8c6cff4067530a871cc057cdcfef4dcb"
+    },
+    {
+      "path": "202107/OSUGI_relative-humidity_000-0_2021-07-01_2021-08-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202107/OSUGI_relative-humidity_000-0_2021-07-01_2021-08-01.nc",
+      "bytes": 212224,
+      "sha256": "c5066dd2ac7b10c6a7562b24df01f66e93257e5223cb31db70f5c88823912a81"
+    },
+    {
+      "path": "202107/OSUGI_sea-water-ph-reported-on-total-scale_000-0_2021-07-01_2021-08-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202107/OSUGI_sea-water-ph-reported-on-total-scale_000-0_2021-07-01_2021-08-01.nc",
+      "bytes": 211813,
+      "sha256": "a958c6494f2231e52bbe2b594042b9f72d46981c2f26f5c486d753f794d17f43"
+    },
+    {
+      "path": "202107/OSUGI_sea-water-temperature_000-0_2021-07-01_2021-08-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202107/OSUGI_sea-water-temperature_000-0_2021-07-01_2021-08-01.nc",
+      "bytes": 211778,
+      "sha256": "b5fd16fcfe52d25e9e668abc2afecc350d99036fe4993fc7c31e3bea2411c1e0"
+    },
+    {
+      "path": "202107/OSUGI_sea-water-temperature_001-0_2021-07-01_2021-08-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202107/OSUGI_sea-water-temperature_001-0_2021-07-01_2021-08-01.nc",
+      "bytes": 211805,
+      "sha256": "a3d695fbbb1f55327fa0e27e4ff13747bc2f32d19eb52b312a8d5e5b0993ccec"
+    },
+    {
+      "path": "202107/OSUGI_wind-from-direction_000-0_2021-07-01_2021-08-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202107/OSUGI_wind-from-direction_000-0_2021-07-01_2021-08-01.nc",
+      "bytes": 212256,
+      "sha256": "eed4719237f24a8cd1fc02768bf25b1be2f01020fd9dbda186c3fd28baf4838f"
+    },
+    {
+      "path": "202107/OSUGI_wind-speed_000-0_2021-07-01_2021-08-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202107/OSUGI_wind-speed_000-0_2021-07-01_2021-08-01.nc",
+      "bytes": 212235,
+      "sha256": "937528713b6ab7e259d0f523bf802c6890442aa819a829331d2f4b3b8d2129f1"
+    },
+    {
+      "path": "202108/OSUGI_air-pressure_000-0_2021-08-01_2021-09-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202108/OSUGI_air-pressure_000-0_2021-08-01_2021-09-01.nc",
+      "bytes": 207610,
+      "sha256": "194e1a726170492c02d64e33d61e42232a2247bb69aedb34d3cfec02d5a5387c"
+    },
+    {
+      "path": "202108/OSUGI_air-temperature_000-0_2021-08-01_2021-09-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202108/OSUGI_air-temperature_000-0_2021-08-01_2021-09-01.nc",
+      "bytes": 210224,
+      "sha256": "16da3436e42bd18ac9f9fcc1074953e2518df2d84827e2be599ab0fdc52293ea"
+    },
+    {
+      "path": "202108/OSUGI_fractional-saturation-of-oxygen-in-sea-water_000-0_2021-08-01_2021-09-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202108/OSUGI_fractional-saturation-of-oxygen-in-sea-water_000-0_2021-08-01_2021-09-01.nc",
+      "bytes": 209649,
+      "sha256": "ce0c27a3926228b978e796ff63990baeeb39eeab5243a8d0f5d32c7a5d91e097"
+    },
+    {
+      "path": "202108/OSUGI_mass-concentration-of-oxygen-in-sea-water_000-0_2021-08-01_2021-09-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202108/OSUGI_mass-concentration-of-oxygen-in-sea-water_000-0_2021-08-01_2021-09-01.nc",
+      "bytes": 209616,
+      "sha256": "e780e33ea4553580fbf56cb7eabf6ce576360cca46193101dcbeb20c81be48e1"
+    },
+    {
+      "path": "202108/OSUGI_relative-humidity_000-0_2021-08-01_2021-09-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202108/OSUGI_relative-humidity_000-0_2021-08-01_2021-09-01.nc",
+      "bytes": 209608,
+      "sha256": "74418c34142bf15fc3011fef96574efc8692f5e2b28550c8c5787ccb9773aa5a"
+    },
+    {
+      "path": "202108/OSUGI_sea-water-ph-reported-on-total-scale_000-0_2021-08-01_2021-09-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202108/OSUGI_sea-water-ph-reported-on-total-scale_000-0_2021-08-01_2021-09-01.nc",
+      "bytes": 209197,
+      "sha256": "f4aece62659583219b9a640db2c637e4d74228fe6cdb8470352ec669e261c876"
+    },
+    {
+      "path": "202108/OSUGI_sea-water-temperature_000-0_2021-08-01_2021-09-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202108/OSUGI_sea-water-temperature_000-0_2021-08-01_2021-09-01.nc",
+      "bytes": 209162,
+      "sha256": "56c03845776d229451e35a2962a1b5ee213b0cbf18eabfbd6a948b5cf9338f55"
+    },
+    {
+      "path": "202108/OSUGI_sea-water-temperature_001-0_2021-08-01_2021-09-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202108/OSUGI_sea-water-temperature_001-0_2021-08-01_2021-09-01.nc",
+      "bytes": 206573,
+      "sha256": "5092ea55f2f0a1abeb71f1203268ab2c7abdeed7ecb941c445baef40c9a256b7"
+    },
+    {
+      "path": "202108/OSUGI_wind-from-direction_000-0_2021-08-01_2021-09-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202108/OSUGI_wind-from-direction_000-0_2021-08-01_2021-09-01.nc",
+      "bytes": 209640,
+      "sha256": "46a32cdab6c5c21e07f3f33be036df27fd182cbb1959f3a626a831e7ff0b8269"
+    },
+    {
+      "path": "202108/OSUGI_wind-speed_000-0_2021-08-01_2021-09-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202108/OSUGI_wind-speed_000-0_2021-08-01_2021-09-01.nc",
+      "bytes": 209619,
+      "sha256": "0f009ac55a75a367a50eb14331f9fc365cd1af8be6f1164b5fcad7a6a2b73174"
+    },
+    {
+      "path": "202109/OSUGI_air-pressure_000-0_2021-09-01_2021-10-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202109/OSUGI_air-pressure_000-0_2021-09-01_2021-10-01.nc",
+      "bytes": 212842,
+      "sha256": "e0d2476b91e49d022528f909dc1ad5080c5ad75973662379b7656ffd67218e80"
+    },
+    {
+      "path": "202109/OSUGI_air-temperature_000-0_2021-09-01_2021-10-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202109/OSUGI_air-temperature_000-0_2021-09-01_2021-10-01.nc",
+      "bytes": 218168,
+      "sha256": "efc9eaab6af69d7c3252b14eb04bc694c9a394b6f50344035a36750c7576da4a"
+    },
+    {
+      "path": "202109/OSUGI_fractional-saturation-of-oxygen-in-sea-water_000-0_2021-09-01_2021-10-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202109/OSUGI_fractional-saturation-of-oxygen-in-sea-water_000-0_2021-09-01_2021-10-01.nc",
+      "bytes": 217593,
+      "sha256": "ca25bbe2cd66145d5a659af46777f7530bb1d082cc009cc56362178c3aec92b9"
+    },
+    {
+      "path": "202109/OSUGI_mass-concentration-of-oxygen-in-sea-water_000-0_2021-09-01_2021-10-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202109/OSUGI_mass-concentration-of-oxygen-in-sea-water_000-0_2021-09-01_2021-10-01.nc",
+      "bytes": 217560,
+      "sha256": "2b2252051852d40ca18bedb6227821719e67cf8d2aa7a2dda23884261805b279"
+    },
+    {
+      "path": "202109/OSUGI_relative-humidity_000-0_2021-09-01_2021-10-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202109/OSUGI_relative-humidity_000-0_2021-09-01_2021-10-01.nc",
+      "bytes": 217552,
+      "sha256": "a4afad1a90f81e4cc0aeee1115a07cf82a8293c3891c9a5a962ef1f7d95a60fc"
+    },
+    {
+      "path": "202109/OSUGI_sea-water-ph-reported-on-total-scale_000-0_2021-09-01_2021-10-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202109/OSUGI_sea-water-ph-reported-on-total-scale_000-0_2021-09-01_2021-10-01.nc",
+      "bytes": 217141,
+      "sha256": "427ab54e2f94c99d8ab8cfe9d7eb41b532f8fcce7fb82d277f7d1988d98d23a6"
+    },
+    {
+      "path": "202109/OSUGI_sea-water-temperature_000-0_2021-09-01_2021-10-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202109/OSUGI_sea-water-temperature_000-0_2021-09-01_2021-10-01.nc",
+      "bytes": 217106,
+      "sha256": "9e2e33e2ec44779956e89af6f85c8a0abe3b2d72cfa9f7492eef715d1a78b32c"
+    },
+    {
+      "path": "202109/OSUGI_sea-water-temperature_001-0_2021-09-01_2021-10-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202109/OSUGI_sea-water-temperature_001-0_2021-09-01_2021-10-01.nc",
+      "bytes": 211805,
+      "sha256": "79cc87eb58034825546b8d8b590b0357d0ac43d73c5bbac1dc66ce9686653565"
+    },
+    {
+      "path": "202109/OSUGI_wind-from-direction_000-0_2021-09-01_2021-10-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202109/OSUGI_wind-from-direction_000-0_2021-09-01_2021-10-01.nc",
+      "bytes": 217584,
+      "sha256": "6d695e8ef79f03ea54f7432becda388b8522b4cca15d1d45317da74d7dac5640"
+    },
+    {
+      "path": "202109/OSUGI_wind-speed_000-0_2021-09-01_2021-10-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202109/OSUGI_wind-speed_000-0_2021-09-01_2021-10-01.nc",
+      "bytes": 217563,
+      "sha256": "ac9797784c307cf071ea1e3d983608d1ac47b3666845b3116a3fc95eb40a08e1"
+    },
+    {
+      "path": "202110/OSUGI_air-pressure_000-0_2021-10-01_2021-11-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202110/OSUGI_air-pressure_000-0_2021-10-01_2021-11-01.nc",
+      "bytes": 151986,
+      "sha256": "859941d6aa794dd4e2573088582ebf5afeadd9208b0fa887c21418d28e3afa87"
+    },
+    {
+      "path": "202110/OSUGI_air-temperature_000-0_2021-10-01_2021-11-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202110/OSUGI_air-temperature_000-0_2021-10-01_2021-11-01.nc",
+      "bytes": 151984,
+      "sha256": "808351d7e273f69f93ce2a831b628fb00a67734da0f8a167e79458ef4b1c809b"
+    },
+    {
+      "path": "202110/OSUGI_fractional-saturation-of-oxygen-in-sea-water_000-0_2021-10-01_2021-11-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202110/OSUGI_fractional-saturation-of-oxygen-in-sea-water_000-0_2021-10-01_2021-11-01.nc",
+      "bytes": 151409,
+      "sha256": "b39fa884eb4451683750a5a9210fc70c57c8d55f5d5291f65ffadfd20ca47e7d"
+    },
+    {
+      "path": "202110/OSUGI_mass-concentration-of-oxygen-in-sea-water_000-0_2021-10-01_2021-11-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202110/OSUGI_mass-concentration-of-oxygen-in-sea-water_000-0_2021-10-01_2021-11-01.nc",
+      "bytes": 151376,
+      "sha256": "9afdf180d2b6c426550d79f461a0dfa1c134d35b590418fdd201a7298766eed2"
+    },
+    {
+      "path": "202110/OSUGI_relative-humidity_000-0_2021-10-01_2021-11-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202110/OSUGI_relative-humidity_000-0_2021-10-01_2021-11-01.nc",
+      "bytes": 151368,
+      "sha256": "ad622ef0a2fe2bc1b0bb441b0a8c5c5c4f446317d31afafbb1fd5c2840fbcf71"
+    },
+    {
+      "path": "202110/OSUGI_sea-water-ph-reported-on-total-scale_000-0_2021-10-01_2021-11-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202110/OSUGI_sea-water-ph-reported-on-total-scale_000-0_2021-10-01_2021-11-01.nc",
+      "bytes": 150957,
+      "sha256": "00c9a0de99d09fd6146a3ed23e944ac16a34124427b8d64ac05556ebd302239c"
+    },
+    {
+      "path": "202110/OSUGI_sea-water-temperature_000-0_2021-10-01_2021-11-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202110/OSUGI_sea-water-temperature_000-0_2021-10-01_2021-11-01.nc",
+      "bytes": 182658,
+      "sha256": "8bd750f2c889b08b9e20ac1ef1c8f508cfa423775638590441e7e3e383a94d73"
+    },
+    {
+      "path": "202110/OSUGI_sea-water-temperature_001-0_2021-10-01_2021-11-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202110/OSUGI_sea-water-temperature_001-0_2021-10-01_2021-11-01.nc",
+      "bytes": 180069,
+      "sha256": "dbe150e6cc8aa01a9ea62b26e70944d08ef02eeab6bfba4e0ba15394faa93e0a"
+    },
+    {
+      "path": "202110/OSUGI_wind-from-direction_000-0_2021-10-01_2021-11-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202110/OSUGI_wind-from-direction_000-0_2021-10-01_2021-11-01.nc",
+      "bytes": 151400,
+      "sha256": "8871719871aed3920d0f267ea8c13dc1543b5ff12c6d1831217db1cc385f50f3"
+    },
+    {
+      "path": "202110/OSUGI_wind-speed_000-0_2021-10-01_2021-11-01.nc",
+      "url": "https://www.ncei.noaa.gov/data/oceans/ioos/glos/OSUGI/202110/OSUGI_wind-speed_000-0_2021-10-01_2021-11-01.nc",
+      "bytes": 151379,
+      "sha256": "d91020e02a3b3c15b57bf09cde2f908e482eae208d8b42332735a00da4726afc"
+    }
+  ]
+}

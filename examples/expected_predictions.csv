@@ -1,0 +1,7 @@
+row_number,target_date,risk_score,predicted_label,risk_tier,missing_feature_count
+1,2030-07-01,0.140072823,0,normal,0
+2,2030-07-02,0.254297256,0,medium,0
+3,2030-07-03,0.254297256,0,medium,0
+4,2030-07-04,0.542050302,1,warning,0
+5,2030-07-05,0.594489276,1,warning,0
+6,2030-07-06,0.151947826,0,normal,39
