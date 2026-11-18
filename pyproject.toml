@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mc-risk-predictor"
-version = "1.0.0"
-description = "Target-day total microcystin risk from seven days of water-quality observations"
+version = "3.0.0"
+description = "Two-day Total MC risk from seven days of water quality and historical Total MC"
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
 license = "MIT"
@@ -17,6 +17,7 @@ dependencies = [
 
 [project.scripts]
 mc-risk-predict = "mod_mc.cli:main"
+mc-risk-predict-v3 = "mod_mc.cli_v3:main"
 mc-risk-build = "mod_mc.cli:build_main"
 mc-risk-prepare-stonelab = "mod_mc.cli:prepare_main"
 mc-risk-reproduce = "mod_mc.cli:reproduce_main"
@@ -25,7 +26,7 @@ mc-risk-reproduce = "mod_mc.cli:reproduce_main"
 where = ["src"]
 
 [tool.setuptools.package-data]
-"mod_mc.resources" = ["*.json", "*.yaml"]
+"mod_mc.resources" = ["*.json", "*.yaml", "v3/*.json", "v3/models/*.json"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

@@ -1,26 +1,42 @@
 # CyanoGuard · MC Risk Predictor
 
-MC Risk Predictor estimates the risk that **target-day total microcystins reach
-1 µg/L**, using water-quality observations from the preceding seven complete
-days. It provides a frozen XGBoost model, a CSV prediction command and the source
-code for the four-fold temporal validation used to select the model.
+MC Risk Predictor estimates the risk that **total microcystins (Total MC) reach
+1 µg/L** on a future calendar day. The latest model bundle uses a shared
+seven-day window of water-quality observations and historical Total MC to
+produce separate **Day 1** and **Day 2** predictions.
 
 ## Project and contribution
 
 I contributed to the early-warning model's mathematical design and implementation
 for SCAU-China's 2026 iGEM project, CyanoGuard, and to writing the Dry Lab and
 Engineering pages. This portfolio repository carries the team's published
-v1.0.0 model and prediction software. The GitHub edition adds build verification
-for Windows and Linux and retains the upstream license and team credits.
+Wiki baseline and our subsequent dual-day inference bundle. It retains the
+upstream license and team credits.
 
 - [Official iGEM GitLab v1.0.0](https://gitlab.igem.org/2026/software/scau-china/mc-risk-prediction/-/tree/v1.0.0)
 - [Team contribution record](https://2026.igem.wiki/scau-china/team/attributions)
 - Upstream commit `330014260fcac30e81ccfc1c3973fbf056abf5fb`
 
-The tool is intended for researchers and iGEM teams working with comparable
-water-quality records. Its output is an uncalibrated risk score and response tier.
-The seven days describe the input window; the model does not forecast seven
-future days or estimate toxin concentration.
+## Run v3 with historical Total MC
+
+Use Python 3.12. After activating a new virtual environment, run:
+
+```bash
+python -m pip install -r requirements.lock
+python -m pip install .
+mc-risk-predict-v3 --features-csv examples/v3_synthetic_features.csv --output-csv v3_predictions.csv
+```
+
+The command accepts 42 features for days $d-6$ through $d$, including the mean,
+latest value and linear trend of observed Total MC. The two XGBoost models
+independently score days $d+1$ and $d+2$ using that same input. A score is
+an uncalibrated per-day risk estimate. [Daily table input, version history and evaluation](docs/dual-day-v3.md)
+
+## Wiki baseline with 39 features
+
+The sections below document the original single-day model. Its command
+`mc-risk-predict` still takes the 39-feature CSV, and its data preparation and
+four-fold reproduction commands still follow the original Wiki configuration.
 
 ## Install and run
 

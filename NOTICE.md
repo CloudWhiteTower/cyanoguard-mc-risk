@@ -12,6 +12,10 @@ their row-level derivatives are not included. The MIT license does not relicense
 those datasets. Obtain data from the original providers and follow their terms
 and citation requirements; see [data sources](docs/data-sources.md).
 
+The v3 extension uses the same project data sources and adds features from
+historical Total MC observations. The release includes the two frozen models,
+aggregate evaluation and synthetic examples. [Dual-day inference provenance](docs/dual-day-v3.md)
+
 Dependencies are installed separately and retain their own licenses:
 
 | Dependency | Upstream license |
